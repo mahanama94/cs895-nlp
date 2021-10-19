@@ -1,6 +1,6 @@
 import os
 
-DATA_DIRECTORY = os.environ.get("DATA_DIRECTORY", "data/")
+DATA_DIRECTORY = os.environ.get("DATA_DIRECTORY", "../data/")
 
 LOGGING_DIRECTORY = DATA_DIRECTORY + "logs/"
 
