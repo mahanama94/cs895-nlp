@@ -3,6 +3,7 @@ import logging
 import csv
 
 import praw
+from prawcore.exceptions import ServerError
 from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY
 
 #
@@ -20,6 +21,8 @@ end_date = datetime.date(2021, 10, 19)
 if __name__ == '__main__':
 
     SUBREDDIT = "wallstreetbets"
+    MAX_RETRIES = 5
+
     logging.basicConfig(filename=LOGGING_DIRECTORY + SUBREDDIT + ".log", level=logging.INFO)
 
     reddit_client = praw.Reddit(client_id=REDDIT_CLIENT_ID, client_secret=REDDIT_CLIENT_SECRET,
@@ -31,35 +34,42 @@ if __name__ == '__main__':
     while current_date < end_date:
         search_query = "Daily Discussion Thread for " + current_date.strftime("%B %d, %Y")
 
-        submissions = reddit_client.subreddit(SUBREDDIT).search(search_query)
-        try:
-            submission = next(submissions)
-            csv_file = open(REDDIT_DATA_DIRECTORY + submission.title + ".csv", "w", newline="\n")
+        retries = 0
 
-            csv_writer = csv.DictWriter(csv_file, fieldnames=["date", "subreddit", "id", "body", "parent_id", "score"])
-            csv_writer.writeheader()
+        while retries < MAX_RETRIES:
+            try:
+                submissions = reddit_client.subreddit(SUBREDDIT).search(search_query)
+                submission = next(submissions)
+                csv_file = open(REDDIT_DATA_DIRECTORY + submission.title + ".csv", "w", newline="\n")
 
-            comments = submission.comments.list()
+                csv_writer = csv.DictWriter(csv_file, fieldnames=["date", "subreddit", "id", "body", "parent_id", "score"])
+                csv_writer.writeheader()
 
-            for comment in comments:
-                if isinstance(comment, praw.models.reddit.more.MoreComments):
-                    comments = comments + comment.comments()
-                else:
-                    csv_writer.writerow({
-                        "date": current_date.strftime("%Y-%m-%d"),
-                        "subreddit": SUBREDDIT,
-                        "id": comment.id,
-                        "body": comment.body,
-                        "parent_id": comment.parent_id,
-                        "score": comment.score
-                    })
+                comments = submission.comments.list()
 
-            csv_file.close()
+                for comment in comments:
+                    if isinstance(comment, praw.models.reddit.more.MoreComments):
+                        comments = comments + comment.comments()
+                    else:
+                        csv_writer.writerow({
+                            "date": current_date.strftime("%Y-%m-%d"),
+                            "subreddit": SUBREDDIT,
+                            "id": comment.id,
+                            "body": comment.body,
+                            "parent_id": comment.parent_id,
+                            "score": comment.score
+                        })
 
-            logging.info("Completed for " + search_query + " with " + submission.title)
+                csv_file.close()
 
-        except StopIteration:
-            logging.error("SEARCH : No results for " + search_query)
+                logging.info("Completed for " + search_query + " with " + submission.title)
+                break
+            except ServerError:
+                logging.warn("RETRY : " + retries + " for " + search_query)
+                retries = retries + 1
+            except StopIteration:
+                logging.error("SEARCH : No results for " + search_query)
+                break
 
         current_date = current_date + time_delta
 
