@@ -2,7 +2,7 @@ import os
 
 import pandas_datareader.data as web
 
-from data_extractors.config import YAHOO_DATA_DIRECTORY
+from config import YAHOO_DATA_DIRECTORY
 
 TICKER = os.environ.get("TICKER", "GME")
 START = os.environ.get("START", "2010-01-01")
