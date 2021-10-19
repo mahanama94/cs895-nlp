@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
             for comment in comments:
                 if isinstance(comment, praw.models.reddit.more.MoreComments):
-                    comments.append(comment.comments())
+                    comments = comments + comment.comments()
                 else:
                     csv_writer.writerow({
                         "date": current_date.strftime("%Y-%m-%d"),
