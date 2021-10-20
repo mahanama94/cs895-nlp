@@ -3,7 +3,7 @@ import logging
 import csv
 
 import praw
-from prawcore.exceptions import ServerError
+from prawcore.exceptions import ServerError, RequestException
 from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY
 
 #
@@ -64,12 +64,14 @@ if __name__ == '__main__':
 
                 logging.info("Completed for " + search_query + " with " + submission.title)
                 break
-            except ServerError:
-                logging.warn("RETRY : " + retries + " for " + search_query)
+            except (ServerError, RequestException) as e:
+                logging.warn("RETRY : " + retries + " for " + search_query + str(e))
                 retries = retries + 1
             except StopIteration:
                 logging.error("SEARCH : No results for " + search_query)
                 break
 
+        if retries == MAX_RETRIES:
+            logging.error("CONNECTION: Retry count exceeded")
         current_date = current_date + time_delta
 
