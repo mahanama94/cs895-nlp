@@ -15,7 +15,7 @@ from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, RE
 #
 
 
-start_date = datetime.date(2021, 10, 17)
+start_date = datetime.date(2019, 10, 19)
 end_date = datetime.date(2021, 10, 19)
 
 if __name__ == '__main__':
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     time_delta = datetime.timedelta(days=1)
 
     while current_date < end_date:
-        search_query = "Daily Discussion Thread for " + current_date.strftime("%B %d, %Y")
+        search_query = "daily discussion " + current_date.strftime("%B %d %Y")
 
         retries = 0
 
