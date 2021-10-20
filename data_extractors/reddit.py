@@ -42,16 +42,21 @@ if __name__ == '__main__':
                 submission = next(submissions)
                 csv_file = open(REDDIT_DATA_DIRECTORY + submission.title + ".csv", "w", newline="\n")
 
-                csv_writer = csv.DictWriter(csv_file, fieldnames=["date", "subreddit", "id", "body", "parent_id", "score"])
+                csv_writer = csv.DictWriter(csv_file, fieldnames=["created", "date", "subreddit", "id", "body",
+                                                                  "parent_id", "score"])
                 csv_writer.writeheader()
 
                 comments = submission.comments.list()
 
                 for comment in comments:
                     if isinstance(comment, praw.models.reddit.more.MoreComments):
-                        comments = comments + comment.comments().list()
+                        if isinstance(comment.comments(), praw.models.reddit.comment.CommentForest):
+                            comments = comments + comment.comments().list()
+                        else:
+                            comments = comments + comment.comments()
                     else:
                         csv_writer.writerow({
+                            "created": comment.created_utc,
                             "date": current_date.strftime("%Y-%m-%d"),
                             "subreddit": SUBREDDIT,
                             "id": comment.id,
