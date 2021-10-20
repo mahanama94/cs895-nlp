@@ -15,7 +15,7 @@ from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, RE
 #
 
 
-start_date = datetime.date(2019, 10, 19)
+start_date = datetime.date(2019, 12, 14)
 end_date = datetime.date(2021, 10, 19)
 
 if __name__ == '__main__':
@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
                 for comment in comments:
                     if isinstance(comment, praw.models.reddit.more.MoreComments):
-                        comments = comments + comment.comments()
+                        comments = comments + comment.comments().list()
                     else:
                         csv_writer.writerow({
                             "date": current_date.strftime("%Y-%m-%d"),
