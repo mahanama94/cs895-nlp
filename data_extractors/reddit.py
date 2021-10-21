@@ -76,6 +76,10 @@ if __name__ == '__main__':
                 logging.error("SEARCH : No results for " + search_query)
                 break
 
+            except FileNotFoundError:
+                logging.error("FILE: Unable to write to file for " + search_query)
+                break
+
         if retries == MAX_RETRIES:
             logging.error("CONNECTION: Retry count exceeded")
         current_date = current_date + time_delta
