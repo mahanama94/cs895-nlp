@@ -351,3 +351,11 @@ INFO:root:Completed for daily discussion September 25 2020 with Daily Discussion
 INFO:root:Completed for daily discussion September 26 2020 with Wall Street Week Ahead for the trading week beginning October 25th, 2021
 INFO:root:Completed for daily discussion September 27 2020 with Have Lucid Group (LCID) & PIF fallen prey to what Saudis wanted to save Elon Musk from? Shedding lights on Morgan Stanley’s Adam Jonas “Tale of the two companies”
 INFO:root:Completed for daily discussion September 28 2020 with Daily Discussion Thread for September 28, 2020
+INFO:root:Completed for daily discussion September 29 2020 with Daily Discussion Thread for September 29, 2020
+INFO:root:Completed for daily discussion September 30 2020 with Daily Discussion Thread for September 30, 2020
+INFO:root:Completed for daily discussion October 01 2020 with Daily Discussion Thread for October 01, 2020
+INFO:root:Completed for daily discussion October 02 2020 with Daily Discussion Thread for October 02, 2020
+INFO:root:Completed for daily discussion October 03 2020 with Wall Street Week Ahead for the trading week beginning August 30th, 2021
+ERROR:root:FILE: Unable to write to file for daily discussion October 04 2020[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(2/26) Friday's Pre-Market Stock Movers & News.csv"
+INFO:root:Completed for daily discussion October 05 2020 with Daily Discussion Thread for October 05, 2020
+INFO:root:Completed for daily discussion October 06 2020 with Daily Discussion Thread for October 06, 2020
