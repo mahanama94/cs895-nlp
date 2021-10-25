@@ -1,12 +1,8 @@
-import os
-
 import pandas_datareader.data as web
 
-from config import YAHOO_DATA_DIRECTORY
+from config import YAHOO_DATA_DIRECTORY, YAHOO_TICKER, START_DATE, END_DATE
 
-TICKER = os.environ.get("TICKER", "GME")
-START = os.environ.get("START", "2010-01-01")
-END = os.environ.get("END", "2021-01-01")
+if __name__ == '__main__':
 
-data_frame = web.DataReader(TICKER, data_source="yahoo", start=START, end=END)
-data_frame.to_csv(YAHOO_DATA_DIRECTORY + TICKER + "-" + START + "-" + END + ".csv", index=False)
+    data_frame = web.DataReader(YAHOO_TICKER, data_source="yahoo", start=START_DATE, end=END_DATE)
+    data_frame.to_csv(YAHOO_DATA_DIRECTORY + YAHOO_TICKER + "-" + START_DATE + "-" + START_DATE + ".csv", index=False)

@@ -4,7 +4,8 @@ import csv
 
 from tweepy import Client
 
-from data_extractors.config import TWITTER_BEARER_TOKEN, LOGGING_DIRECTORY, TWITTER_TAG, TWITTER_DATA_DIRECTORY
+from data_extractors.config import TWITTER_BEARER_TOKEN, LOGGING_DIRECTORY, TWITTER_TAG, TWITTER_DATA_DIRECTORY, \
+    TWITTER_TWEET_COUNT
 
 start_date = datetime.datetime(2021, 10, 19)
 end_date = datetime.datetime(2021, 10, 24)
@@ -20,6 +21,7 @@ if __name__ == '__main__':
 
     while current_date < end_date:
         tweets = client.search_recent_tweets(query=TWITTER_TAG, start_time=current_date,
+                                             max_results=TWITTER_TWEET_COUNT,
                                              expansions=["author_id"], tweet_fields=["created_at", "public_metrics"])
 
         csv_file = open(TWITTER_DATA_DIRECTORY + TWITTER_TAG + "-" + current_date.strftime("%Y-%m-%d") + ".csv",
