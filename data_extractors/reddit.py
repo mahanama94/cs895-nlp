@@ -3,8 +3,9 @@ import logging
 import csv
 
 import praw
-from prawcore.exceptions import ServerError, RequestException
-from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY
+import prawcore
+from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY, \
+    START_DATE, END_DATE
 
 #
 # Best/ Confidence ?= upvotes - downvotes
@@ -15,8 +16,8 @@ from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, RE
 #
 
 
-start_date = datetime.date(2021, 1, 26)
-end_date = datetime.date(2021, 10, 19)
+start_date = datetime.datetime.strptime(START_DATE, "%Y-%m-%d")
+end_date = datetime.datetime.strptime(END_DATE, "%Y-%m-%d")
 
 if __name__ == '__main__':
 
@@ -50,10 +51,13 @@ if __name__ == '__main__':
 
                 for comment in comments:
                     if isinstance(comment, praw.models.reddit.more.MoreComments):
-                        if isinstance(comment.comments(), praw.models.reddit.comment.CommentForest):
-                            comments = comments + comment.comments().list()
-                        else:
-                            comments = comments + comment.comments()
+                        try:
+                            if isinstance(comment.comments(), praw.models.reddit.comment.CommentForest):
+                                comments = comments + comment.comments().list()
+                            else:
+                                comments = comments + comment.comments()
+                        except prawcore.exceptions.TooLarge:
+                            logging.error("COMMENTS : Too Large " + search_query)
                     else:
                         csv_writer.writerow({
                             "created": comment.created_utc,
@@ -70,7 +74,7 @@ if __name__ == '__main__':
                 logging.info("Completed for " + search_query + " with " + submission.title)
                 break
             except (ServerError, RequestException) as e:
-                logging.warn("RETRY : " + str(retries) + " for " + search_query + str(e))
+                logging.warning("RETRY : " + str(retries) + " for " + search_query + str(e))
                 retries = retries + 1
             except StopIteration:
                 logging.error("SEARCH : No results for " + search_query)
