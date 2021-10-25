@@ -15,7 +15,7 @@ from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, RE
 #
 
 
-start_date = datetime.date(2019, 12, 14)
+start_date = datetime.date(2021, 1, 26)
 end_date = datetime.date(2021, 10, 19)
 
 if __name__ == '__main__':
@@ -70,14 +70,14 @@ if __name__ == '__main__':
                 logging.info("Completed for " + search_query + " with " + submission.title)
                 break
             except (ServerError, RequestException) as e:
-                logging.warn("RETRY : " + retries + " for " + search_query + str(e))
+                logging.warn("RETRY : " + str(retries) + " for " + search_query + str(e))
                 retries = retries + 1
             except StopIteration:
                 logging.error("SEARCH : No results for " + search_query)
                 break
 
-            except FileNotFoundError:
-                logging.error("FILE: Unable to write to file for " + search_query)
+            except (FileNotFoundError, OSError) as e:
+                logging.error("FILE: Unable to write to file for " + search_query + str(e))
                 break
 
         if retries == MAX_RETRIES:
