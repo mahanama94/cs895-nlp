@@ -5,10 +5,10 @@ import csv
 from tweepy import Client
 
 from data_extractors.config import TWITTER_BEARER_TOKEN, LOGGING_DIRECTORY, TWITTER_TAG, TWITTER_DATA_DIRECTORY, \
-    TWITTER_TWEET_COUNT
+    TWITTER_TWEET_COUNT, START_DATE, END_DATE
 
-start_date = datetime.datetime(2019, 10, 19)
-end_date = datetime.datetime(2019, 10, 24)
+start_date = datetime.datetime.strptime(START_DATE, "%Y-%m-%d")
+end_date = datetime.datetime.strptime(END_DATE, "%Y-%m-%d")
 
 if __name__ == '__main__':
 
