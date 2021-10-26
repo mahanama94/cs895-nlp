@@ -488,3 +488,10 @@ INFO:root:Completed for daily discussion January 31 2021 with Have Lucid Group (
 INFO:root:Completed for daily discussion February 01 2021 with Wall Street Week Ahead for the trading week beginning August 30th, 2021
 INFO:root:Completed for daily discussion February 02 2021 with Daily Discussion Thread for February 02, 2021: Part 2
 INFO:root:Completed for daily discussion February 03 2021 with Daily Discussion Thread for February 03, 2021
+ERROR:root:FILE: Unable to write to file for daily discussion February 04 2021[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(2/26) Friday's Pre-Market Stock Movers & News.csv"
+INFO:root:Completed for daily discussion February 05 2021 with Daily Discussion Thread for February 05, 2021
+INFO:root:Completed for daily discussion February 06 2021 with Wall Street Week Ahead for the trading week beginning August 30th, 2021
+INFO:root:Completed for daily discussion February 07 2021 with Have Lucid Group (LCID) & PIF fallen prey to what Saudis wanted to save Elon Musk from? Shedding lights on Morgan Stanley’s Adam Jonas “Tale of the two companies”
+INFO:root:Completed for daily discussion February 08 2021 with Daily Discussion Thread for February 08, 2021
+INFO:root:Completed for daily discussion February 09 2021 with Daily Discussion Thread for February 09, 2021
+INFO:root:Completed for daily discussion February 10 2021 with Daily Discussion Thread for February 10, 2021
