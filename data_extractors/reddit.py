@@ -3,7 +3,7 @@ import logging
 import csv
 
 import praw
-import prawcore
+from prawcore.exceptions import ServerError, TooLarge, RequestException
 from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY, \
     START_DATE, END_DATE
 
@@ -56,7 +56,7 @@ if __name__ == '__main__':
                                 comments = comments + comment.comments().list()
                             else:
                                 comments = comments + comment.comments()
-                        except prawcore.exceptions.TooLarge:
+                        except TooLarge:
                             logging.error("COMMENTS : Too Large " + search_query)
                     else:
                         csv_writer.writerow({
