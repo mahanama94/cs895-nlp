@@ -747,3 +747,10 @@ INFO:root:Completed for daily discussion October 17 2021 with Have Lucid Group (
 INFO:root:Completed for daily discussion October 18 2021 with Daily Discussion Thread for October 18, 2021
 INFO:root:Completed for Moves Tomorrow October 19 2020 with What Are Your Moves Tomorrow, October 19, 2020
 INFO:root:Completed for Moves Tomorrow October 20 2020 with What Are Your Moves Tomorrow, October 20, 2020
+INFO:root:Completed for Moves Tomorrow October 21 2020 with What Are Your Moves Tomorrow, October 21, 2020
+INFO:root:Completed for Moves Tomorrow October 22 2020 with What Are Your Moves Tomorrow, October 22, 2020
+INFO:root:Completed for Moves Tomorrow October 23 2020 with What Are Your Moves Tomorrow, October 23, 2020
+ERROR:root:FILE: Unable to write to file for Moves Tomorrow October 24 2020[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(11/4) Thursday's Pre-Market Stock Movers & News.csv"
+INFO:root:Completed for Moves Tomorrow October 25 2020 with Nike earnings DD + 30k call YOLO
+INFO:root:Completed for Moves Tomorrow October 26 2020 with What Are Your Moves Tomorrow, October 26, 2020
+INFO:root:Completed for Moves Tomorrow October 27 2020 with What Are Your Moves Tomorrow, October 27, 2020
