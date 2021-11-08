@@ -850,3 +850,14 @@ INFO:root:Completed for Moves Tomorrow January 25 2021 with GME: Volume, Price a
 WARNING:prawcore:Retrying due to 502 status: POST https://oauth.reddit.com/api/morechildren/
 WARNING:prawcore:Retrying due to 502 status: POST https://oauth.reddit.com/api/morechildren/
 INFO:root:Completed for Moves Tomorrow January 26 2021 with What Are Your Moves Tomorrow, January 26, 2021
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 500 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/morechildren/
+INFO:root:Completed for Moves Tomorrow January 27 2021 with What Are Your Moves Tomorrow, January 27, 2021
+ERROR:root:COMMENTS : Too Large Moves Tomorrow January 28 2021
+INFO:root:Completed for Moves Tomorrow January 28 2021 with What Are Your Moves Tomorrow, January 28, 2021
