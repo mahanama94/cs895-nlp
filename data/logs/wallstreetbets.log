@@ -861,3 +861,7 @@ WARNING:prawcore:Retrying due to 504 status: POST https://oauth.reddit.com/api/m
 INFO:root:Completed for Moves Tomorrow January 27 2021 with What Are Your Moves Tomorrow, January 27, 2021
 ERROR:root:COMMENTS : Too Large Moves Tomorrow January 28 2021
 INFO:root:Completed for Moves Tomorrow January 28 2021 with What Are Your Moves Tomorrow, January 28, 2021
+INFO:root:Completed for Moves Tomorrow January 29 2021 with What Are Your Moves Tomorrow, January 29, 2021
+INFO:root:Completed for Moves Tomorrow January 30 2021 with GME: Volume, Price and Gamestop news catalysts
+INFO:root:Completed for Moves Tomorrow January 31 2021 with GME COUNTER DD: Why 192% shares held by institutions published by FINRA is wrong
+INFO:root:Completed for Moves Tomorrow February 01 2021 with What Are Your Moves Tomorrow, February 01, 2021
