@@ -33,7 +33,8 @@ if __name__ == '__main__':
     time_delta = datetime.timedelta(days=1)
 
     while current_date < end_date:
-        search_query = "daily discussion " + current_date.strftime("%B %d %Y")
+        # search_query = "daily discussion " + current_date.strftime("%B %d %Y")
+        search_query = "Moves Tomorrow " + current_date.strftime("%B %d %Y")
 
         retries = 0
 
