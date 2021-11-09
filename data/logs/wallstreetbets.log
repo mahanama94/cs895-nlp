@@ -981,3 +981,11 @@ INFO:root:Completed for Moves Tomorrow May 23 2021 with My Bullish Bet on Lucid 
 INFO:root:Completed for Moves Tomorrow May 24 2021 with What Are Your Moves Tomorrow, May 24, 2021
 INFO:root:Completed for Moves Tomorrow May 25 2021 with What Are Your Moves Tomorrow, May 25, 2021
 INFO:root:Completed for Moves Tomorrow May 26 2021 with What Are Your Moves Tomorrow, May 26, 2021
+INFO:root:Completed for Moves Tomorrow May 27 2021 with What Are Your Moves Tomorrow, May 27, 2021
+INFO:root:Completed for Moves Tomorrow May 28 2021 with What Are Your Moves Tomorrow, May 28, 2021
+ERROR:root:FILE: Unable to write to file for Moves Tomorrow May 29 2021[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(11/4) Thursday's Pre-Market Stock Movers & News.csv"
+INFO:root:Completed for Moves Tomorrow May 30 2021 with Nike earnings DD + 30k call YOLO
+INFO:root:Completed for Moves Tomorrow May 31 2021 with What Are Your Moves Tomorrow, May 31, 2021
+INFO:root:Completed for Moves Tomorrow June 01 2021 with What Are Your Moves Tomorrow, June 01, 2021
+INFO:root:Completed for Moves Tomorrow June 02 2021 with What Are Your Moves Tomorrow, June 02, 2021
+INFO:root:Completed for Moves Tomorrow June 03 2021 with What Are Your Moves Tomorrow, June 03, 2021
