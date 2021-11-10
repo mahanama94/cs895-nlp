@@ -1197,3 +1197,292 @@ WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wall
 WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
 WARNING:root:RETRY : 3 for Moves Tomorrow September 30 2021received 503 HTTP response
 WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+INFO:root:Completed for Moves Tomorrow September 30 2021 with What Are Your Moves Tomorrow, September 30, 2021
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 01 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 01 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 01 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 01 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 01 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 02 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 02 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 02 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 02 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 02 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 03 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 03 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 03 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 03 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 03 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 04 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 04 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 04 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 04 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 04 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 05 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 05 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 05 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 05 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 05 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 06 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 06 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 06 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 06 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 06 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 07 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 07 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 07 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 07 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 07 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 08 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 08 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 08 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 08 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 08 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 09 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 09 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 09 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 09 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 09 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 10 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 10 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 10 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 10 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 10 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 11 2021received 504 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 11 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 11 2021received 504 HTTP response
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 11 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 11 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 12 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 12 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 12 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 12 2021received 504 HTTP response
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 12 2021received 504 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 13 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 13 2021received 504 HTTP response
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 13 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 13 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 13 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 14 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 14 2021received 504 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 14 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 14 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 14 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 15 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 15 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 15 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 15 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 15 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 16 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 16 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 16 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 16 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 16 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 17 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 17 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 17 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 17 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 17 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow October 18 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow October 18 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow October 18 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow October 18 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow October 18 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
