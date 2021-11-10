@@ -1098,3 +1098,102 @@ INFO:root:Completed for Moves Tomorrow September 16 2021 with What Are Your Move
 INFO:root:Completed for Moves Tomorrow September 17 2021 with What Are Your Moves Tomorrow, September 17, 2021
 INFO:root:Completed for Moves Tomorrow September 18 2021 with $KBH - There's No Place Like Homo
 INFO:root:Completed for Moves Tomorrow September 19 2021 with FIVERR is taking a DIVERR: Bearish DD for earnings tomorrow.
+INFO:root:Completed for Moves Tomorrow September 20 2021 with What Are Your Moves Tomorrow, September 20, 2021
+INFO:root:Completed for Moves Tomorrow September 21 2021 with What Are Your Moves Tomorrow, September 21, 2021
+INFO:root:Completed for Moves Tomorrow September 22 2021 with What Are Your Moves Tomorrow, September 22, 2021
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 23 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 23 2021received 503 HTTP response
+INFO:root:Completed for Moves Tomorrow September 23 2021 with GME: Volume, Price and Gamestop news catalysts
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 24 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 24 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow September 24 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow September 24 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow September 24 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 25 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 25 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow September 25 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow September 25 2021error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow September 25 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 26 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16)")) status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+ERROR:root:FILE: Unable to write to file for Moves Tomorrow September 26 2021[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(11/4) Thursday's Pre-Market Stock Movers & News.csv"
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 27 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 504 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 27 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow September 27 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow September 27 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow September 27 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 28 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 28 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow September 28 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow September 28 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 4 for Moves Tomorrow September 28 2021received 503 HTTP response
+ERROR:root:CONNECTION: Retry count exceeded
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 29 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 29 2021received 503 HTTP response
+INFO:root:Completed for Moves Tomorrow September 29 2021 with What Are Your Moves Tomorrow, September 29, 2021
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 0 for Moves Tomorrow September 30 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 1 for Moves Tomorrow September 30 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 2 for Moves Tomorrow September 30 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
+WARNING:root:RETRY : 3 for Moves Tomorrow September 30 2021received 503 HTTP response
+WARNING:prawcore:Retrying due to 503 status: GET https://oauth.reddit.com/r/wallstreetbets/search/
