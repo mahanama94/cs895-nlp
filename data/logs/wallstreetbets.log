@@ -1080,3 +1080,14 @@ INFO:root:Completed for Moves Tomorrow August 29 2021 with Weber, Inc. - WEBR (a
 INFO:root:Completed for Moves Tomorrow August 30 2021 with What Are Your Moves Tomorrow, August 30, 2021
 INFO:root:Completed for Moves Tomorrow August 31 2021 with What Are Your Moves Tomorrow, August 31, 2021
 INFO:root:Completed for Moves Tomorrow September 01 2021 with What Are Your Moves Tomorrow, September 01, 2021
+INFO:root:Completed for Moves Tomorrow September 02 2021 with What Are Your Moves Tomorrow, September 02, 2021
+INFO:root:Completed for Moves Tomorrow September 03 2021 with What Are Your Moves Tomorrow, September 03, 2021
+ERROR:root:FILE: Unable to write to file for Moves Tomorrow September 04 2021[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(11/4) Thursday's Pre-Market Stock Movers & News.csv"
+INFO:root:Completed for Moves Tomorrow September 05 2021 with Nike earnings DD + 30k call YOLO
+INFO:root:Completed for Moves Tomorrow September 06 2021 with Come enjoy the $RIDE 🚀 🚀 🚀 (comparison to $MVIS included)
+INFO:root:Completed for Moves Tomorrow September 07 2021 with What Are Your Moves Tomorrow, September 07, 2021
+INFO:root:Completed for Moves Tomorrow September 08 2021 with What Are Your Moves Tomorrow, September 08, 2021
+INFO:root:Completed for Moves Tomorrow September 09 2021 with What Are Your Moves Tomorrow, September 09, 2021
+INFO:root:Completed for Moves Tomorrow September 10 2021 with What Are Your Moves Tomorrow, September 10, 2021
+ERROR:root:FILE: Unable to write to file for Moves Tomorrow September 11 2021[Errno 2] No such file or directory: "/home/rmaha002/projects/cs895-nlp/data/reddit/(11/4) Thursday's Pre-Market Stock Movers & News.csv"
+INFO:root:Completed for Moves Tomorrow September 12 2021 with FIVERR is taking a DIVERR: Bearish DD for earnings tomorrow.
