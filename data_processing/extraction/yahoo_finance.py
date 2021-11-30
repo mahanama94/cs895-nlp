@@ -1,6 +1,6 @@
 import pandas_datareader.data as web
 
-from config import YAHOO_DATA_DIRECTORY, YAHOO_TICKER, START_DATE, END_DATE
+from data_processing.config import YAHOO_DATA_DIRECTORY, YAHOO_TICKER, START_DATE, END_DATE
 
 if __name__ == '__main__':
 

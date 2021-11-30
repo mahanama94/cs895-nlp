@@ -4,7 +4,7 @@ import csv
 
 import praw
 from prawcore.exceptions import ServerError, TooLarge, RequestException
-from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY, \
+from data_processing.config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT, REDDIT_DATA_DIRECTORY, LOGGING_DIRECTORY, \
     START_DATE, END_DATE
 
 #

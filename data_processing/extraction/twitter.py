@@ -4,7 +4,7 @@ import csv
 
 from tweepy import Client
 
-from config import TWITTER_BEARER_TOKEN, LOGGING_DIRECTORY, TWITTER_TAG, TWITTER_DATA_DIRECTORY, \
+from data_processing.config import TWITTER_BEARER_TOKEN, LOGGING_DIRECTORY, TWITTER_TAG, TWITTER_DATA_DIRECTORY, \
     TWITTER_TWEET_COUNT, START_DATE, END_DATE
 
 start_date = datetime.datetime.strptime(START_DATE, "%Y-%m-%d")
