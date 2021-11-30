@@ -1,16 +1,19 @@
-import pandas as pd
+import argparse
+import logging
 
-volume_df = pd.read_csv("data/options/GME-volume.csv")
+from data_processing.processing.combine_files import run as run_combine_files
 
-volume_df = volume_df.groupby(by="Trade Date").sum()
-volume_df["Date"] = volume_df.index.str.replace("/", "-")
+if __name__ == '__main__':
+    logging.basicConfig(level=logging.INFO)
 
-volatility_df = pd.read_csv("data/options/GME-volatility.csv")
-volatility_df["Date"] = volatility_df["Date"].str.replace("/", "-")
+    function_map = {
+        "combine-files": run_combine_files,
+    }
 
-merged = volume_df.merge(volatility_df, left_on='Date', right_on='Date')
-merged.to_csv("data/options/GME-merged.csv")
+    parser = argparse.ArgumentParser(description="Data processing for Reddit-Options dataset", add_help=False)
 
-volume_df.to_csv("data/options/GME-volume-processed.csv")
+    parser.add_argument("--action", choices=function_map.keys(), default="combine-files")
 
-volume_df.head()
+    args, unknown_ards = parser.parse_known_args()
+
+    function_map.get(args.action)(parser)
