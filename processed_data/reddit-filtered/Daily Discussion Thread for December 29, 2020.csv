@@ -1,0 +1,705 @@
+created,date,subreddit,id,body,parent_id,score
+1609242515.0,2020-12-29,wallstreetbets,ghdvf53,"I'm saying this every day until it happens...
+
+Amazon should 10:1 stock split. It's literally free money for them.",t3_kmcawr,149
+1609242336.0,2020-12-29,wallstreetbets,ghdv8st,[deleted],t3_kmcawr,137
+1609249176.0,2020-12-29,wallstreetbets,ghe2z7g,"ARKK up 41% last 3 months
+
+ARKG up 60% last 3 months
+
+WSB after first back to back red days in a while 
+
+FUK CATHIE, ARK IS SHIT!!!! WOW WORST ETF!!!!!",t3_kmcawr,104
+1609249889.0,2020-12-29,wallstreetbets,ghe3yfo,I love end of year profit taking. I'd love to be able to be a part of it someday.,t3_kmcawr,85
+1609244508.0,2020-12-29,wallstreetbets,ghdxf50,"PLTR is not up bigly PM, so maybe we can get a face ripping +10% day
+
+Edit: Guh",t3_kmcawr,87
+1609259406.0,2020-12-29,wallstreetbets,ghek6op,"**Buy high, and sell low? Feeling like your world is crashing in? It’s not. You’ll be ok.**
+
+Your risk tolerance is wild enough for you to be here. You will get through this. Take a break and come back fresh. Don’t chase your losses. Talk to some comrades here about how dumb your plays were. If you still feel like you can’t handle life; check out the resources below. There’s no shame in reaching out. My inbox is always open as well, though response time may vary. Worst case, there’s always bankruptcy, and even that isn’t the end of the world. 
+
+Money is replaceable, you are not.
+
+24/7 Crisis Hotline: 1-800-273-TALK (8255) (Veterans, press 1)
+
+Crisis Text Line: Text TALK to 741-741
+
+Veterans Crisis Line: Send a text to 838255
+
+SAMHSA Treatment Referral Hotline (Substance Abuse) 1-800-662-HELP (4357)
+
+The National Problem Gambling Helpline (1-800-522-4700)
+
+The National Problem Gambling Text Helpline 800-522-4700
+
+**Wendy’s Customer Service Line: 888- 624-8140**",t3_kmcawr,79
+1609242938.0,2020-12-29,wallstreetbets,ghdvtyi,"I made it so the ticker market cap numbers the bots use are constantly being refreshed. It does probably the whole list every 3-4 hours. I'm using yfinance python library in lieu of better data. Got suggestions? Got an uncle with an API key? It sets whether the ticker is spam or not whenever it gets a new number. The cutoff is 500mm for SPACs and 1000mm for everything else. If you find some normal word is blocked as a ticker or there's an issue just ping me. 
+
+What would you use more, a command to check whether a ticker is spam or not or a list of tickers that you can refer to?
+
+We're now tracking timeseries data for the first hour of a submission's life. I think I worked out the kinks. I'm hoping we can do timeseries classification deep learning type stuff with it and figure out which posts are destined for the frontpage, which gained score in an unusual and manipulated way, etc.
+
+Stats page is getting a lot of usage. I might have to move it to its own read-only database. It keeps hogging all the connections and making the bots crash. I used connection pools but it doesn't seem to have helped somehow. 
+
+Since we're tracking the hash of every image posted I've been tempted to turn wsb into 4chan r9k and make it so you can't repost an image more than once, maybe within a couple month grace period. It would be a hassle for people who fucked up their first post or something but it'd be kinda neat. Thoughts?",t3_kmcawr,153
+1609240623.0,2020-12-29,wallstreetbets,ghdtl4i,Jack Ma’s face is proof that aliens live among us.,t3_kmcawr,140
+1609251345.0,2020-12-29,wallstreetbets,ghe6222,[deleted],t3_kmcawr,128
+1609253732.0,2020-12-29,wallstreetbets,ghe9tee,PLTR and GME should form a collab called GainStop.,t3_kmcawr,123
+1609242160.0,2020-12-29,wallstreetbets,ghdv2gc,If PLTR isnt mooning today I am calling the manager,t3_kmcawr,118
+1609243781.0,2020-12-29,wallstreetbets,ghdwo1x,Idk why but it really bothers me that people buy NKLA,t3_kmcawr,57
+1609246500.0,2020-12-29,wallstreetbets,ghdzmju,**You're tearing me apart PLTR**,t3_kmcawr,58
+1609251172.0,2020-12-29,wallstreetbets,ghe5szj,[deleted],t3_kmcawr,59
+1609252017.0,2020-12-29,wallstreetbets,ghe72h9,WHY THE FUCK WOULD SOMEONE SCHEDULE A MEETING AT 9:30 - DONT THEY KNOW I GOT STONKS TO SCREAM AT,t3_kmcawr,55
+1609255612.0,2020-12-29,wallstreetbets,ghed3uy,"Bought PLTR at $30? *check*
+
+Bought ARKK at $130? *check*
+
+Bought ARKG at $104? *check*
+
+Save me",t3_kmcawr,52
+1609258576.0,2020-12-29,wallstreetbets,gheikxw,"I just want enough money to retire off.
+
+Buy a modest house in the countryside with a bit of land, not much. Then take in rescue animals, of all types, and look after them, giving them a happy life. Perhaps a shed or garage where I can restore vintage furniture as a hobby job. Perfect.",t3_kmcawr,52
+1609243417.0,2020-12-29,wallstreetbets,ghdwb2o,I bought the top of ARKG 🤡,t3_kmcawr,95
+1609242955.0,2020-12-29,wallstreetbets,ghdvuln,i hate that feeling when u have your mind set on buying a certain stock and its up 26% premarket ...,t3_kmcawr,48
+1609270189.0,2020-12-29,wallstreetbets,ghf615q,[deleted],t3_kmcawr,46
+1609240603.0,2020-12-29,wallstreetbets,ghdtkg5,"Another 4-day week this week, this shit should be illegal",t3_kmcawr,88
+1609253378.0,2020-12-29,wallstreetbets,ghe9850,"Days like today remind me why I am #ShareGang
+
+Sure, it sucks sitting by and watching people make 100% gains in a day, but it’s pretty fucking awesome not having 100% losses because I YOLO’d on GME weeklys.",t3_kmcawr,43
+1609239936.0,2020-12-29,wallstreetbets,ghdsxeb,"Good morning retards, 
+
+May your stocks only go up, your options print mad fucking money, your tendies be big and delicious.
+
+I love you all, and I believe in you!",t3_kmcawr,145
+1609241435.0,2020-12-29,wallstreetbets,ghdud32,[deleted],t3_kmcawr,76
+1609244897.0,2020-12-29,wallstreetbets,ghdxu1u,Tim Gapple 🍏🚀,t3_kmcawr,37
+1609245968.0,2020-12-29,wallstreetbets,ghdz0tu,Need some more GME confirmation bias right about now,t3_kmcawr,37
+1609255047.0,2020-12-29,wallstreetbets,ghec3pn,I’ve lost 20k in two days,t3_kmcawr,37
+1609258291.0,2020-12-29,wallstreetbets,ghei1jh,"God mother fucking damnit.  Why do companies ask you to upload a resume, yet on the next screen they ask for your work experience and you have to input everything manually anyway, or basically re-do everything because their software is dogshit for scanning for information and uploading it to the website.  What the fuck is the point of a resume if you have to re-do everything for every company.",t3_kmcawr,37
+1609258320.0,2020-12-29,wallstreetbets,ghei3jg,"I wrote a comment on stocktwits for a $20 stock and I wrote, ""based on the charts this could hit $30 by 1pm"". Many people liked it...   
+
+
+I didn't even look at the chart.",t3_kmcawr,33
+1609264664.0,2020-12-29,wallstreetbets,gheurf1,"I was finally all-time green last week
+
+Now I'm down 17%, right back at my previous all-time low
+
+I tried so hard
+
+And got so far
+
+But in the end
+
+It seems I'm still retarded",t3_kmcawr,40
+1609273152.0,2020-12-29,wallstreetbets,ghfc11j,"**BREAKING NEWS**: After rejection of stimulus, stocks rise on stimulus hopes.",t3_kmcawr,37
+1609245823.0,2020-12-29,wallstreetbets,ghdyuyd,"""Teach a man how to grow an apple, he eats an apple a day. Teach a man how to buy apple stock, he eats wagyu beef everyday"" - Warren Buffet",t3_kmcawr,70
+1609242041.0,2020-12-29,wallstreetbets,ghduyfd,[deleted],t3_kmcawr,30
+1609242562.0,2020-12-29,wallstreetbets,ghdvgrr,give me tendies or give me debt,t3_kmcawr,29
+1609254757.0,2020-12-29,wallstreetbets,ghebkw0,Going to tell my wife we’re going to have to refund that MacBook 💻,t3_kmcawr,32
+1609257854.0,2020-12-29,wallstreetbets,gheh82i,[deleted],t3_kmcawr,30
+1609266214.0,2020-12-29,wallstreetbets,ghexwfn,What the actual fuck is wrong with Mitch McConnell? He seriously needs to roll over and die,t3_kmcawr,31
+1609281037.0,2020-12-29,wallstreetbets,ghfrrpe,My two worst performing stocks are Pltr and gme.... last time I listen to you idiots.,t3_kmcawr,30
+1609247369.0,2020-12-29,wallstreetbets,ghe0nvh,Watched *Wolf of Wall Street* again for the first time since I started trading and now this sub makes soooooo much more sense,t3_kmcawr,62
+1609243641.0,2020-12-29,wallstreetbets,ghdwj17,"That fact that NKLA is over $17, makes me sick.",t3_kmcawr,27
+1609244594.0,2020-12-29,wallstreetbets,ghdxibd,"It doesn’t matter how much you polish the turd, it’s still going to be NKLA.",t3_kmcawr,30
+1609245633.0,2020-12-29,wallstreetbets,ghdyn8e,Maybe a red PLTR open means it'll moon👁️👃👁️,t3_kmcawr,27
+1609256059.0,2020-12-29,wallstreetbets,ghedwrj,"Canceled my Olive Garden reservations, eating paint chips tonight",t3_kmcawr,30
+1609258082.0,2020-12-29,wallstreetbets,ghehnd6,when you average down but the average keeps going down 🤡,t3_kmcawr,28
+1609259519.0,2020-12-29,wallstreetbets,ghekeof,Found out I’m going to be a father this morning boys. Looks like I only got a few more YOLO’s left in me.,t3_kmcawr,27
+1609259999.0,2020-12-29,wallstreetbets,ghelctp,Selling Rope! 📿get your rope here! Don’t be greedy pass it to the folks in the back too. Noose pre tied. Ready to go. Double nylon polymer. Made in the USA 🇺🇸,t3_kmcawr,26
+1609263038.0,2020-12-29,wallstreetbets,ghergtw,Mitch is a ghoul. World would be significantly better without him,t3_kmcawr,29
+1609263442.0,2020-12-29,wallstreetbets,ghesaly,"Mitch looks like he‘ll die within the next two years, why does he even have a word in this?",t3_kmcawr,25
+1609263802.0,2020-12-29,wallstreetbets,ghet0o4,is market returning to hard mode lol,t3_kmcawr,26
+1609264862.0,2020-12-29,wallstreetbets,ghev5s4,Rotation into homeless on Jan 1st.,t3_kmcawr,24
+1609266741.0,2020-12-29,wallstreetbets,gheyzci,Mitch McConnell liked Season 8 of Game of Thrones,t3_kmcawr,29
+1609266831.0,2020-12-29,wallstreetbets,ghez5zy,"Mitch the kind of guy to tell the teacher ""you forgot to check our homework"" just before class is done",t3_kmcawr,29
+1609270130.0,2020-12-29,wallstreetbets,ghf5ww5,"Pack your bags son, I lost the house",t3_kmcawr,27
+1609270227.0,2020-12-29,wallstreetbets,ghf63xp,Mitch the type of guy to rip a massive dump in the stall... not flush.. and leave no teepee for the next guy,t3_kmcawr,24
+1609275060.0,2020-12-29,wallstreetbets,ghffv9r,"PLTR $40 EOW
+
+By $40 I mean my entire account will be worth $40",t3_kmcawr,28
+1609247157.0,2020-12-29,wallstreetbets,ghe0en5,"I'm going to go eat a muffin, if PLTR isn't above $26 by the time I get back, we're going to have some words.",t3_kmcawr,25
+1609254735.0,2020-12-29,wallstreetbets,ghebjfo,# bit ov a drilly willy day innit gov   🕵️🇬🇧,t3_kmcawr,23
+1609255762.0,2020-12-29,wallstreetbets,gheddki,[deleted],t3_kmcawr,25
+1609258524.0,2020-12-29,wallstreetbets,gheihcc,PLTR bears are disgusting. These guys caught Bin Laden! How is Bin Laden not worth $30 per share??,t3_kmcawr,24
+1609262795.0,2020-12-29,wallstreetbets,gheqz3n,"doesn't matter if you a diehard R or D, if someone blocks you getting a 2K check and you poor, you gonna be pisssseeeddd",t3_kmcawr,23
+1609263045.0,2020-12-29,wallstreetbets,gherhdo,"Senate GOP blocking the $2k stimulus checks. Say goodbye to the Senate being Republican. Georgia going blue. 
+
+Watch the market drop like a stone now",t3_kmcawr,23
+1609246178.0,2020-12-29,wallstreetbets,ghdz9cn,"Told my wife how much I’m up for the year and she said that meant her MacBook was free, and immediately went online shopping.",t3_kmcawr,49
+1609246988.0,2020-12-29,wallstreetbets,ghe07a2,"Im ready to empty my bank account on Cathie if she blesses us with such a fat dip
+
+#Simp4Cathie gang",t3_kmcawr,23
+1609250710.0,2020-12-29,wallstreetbets,ghe54no,"*Dim Jack Ma*
+
+*Done Xi wrong*
+
+*Swim with fishes*
+
+*All night wong*",t3_kmcawr,22
+1609251171.0,2020-12-29,wallstreetbets,ghe5syj,[deleted],t3_kmcawr,24
+1609255497.0,2020-12-29,wallstreetbets,ghecwaj,"So I watch PLTR at market open; some people are saying I won, I'm up big big.
+
+Then market opens and illegal orders come in, from who knows where; and all of a sudden they tell me I'm losing. I go from up bigly to losing right at market open from illegal market orders. They're not even letting people on the market floor to watch; they're pushing them away.",t3_kmcawr,24
+1609263151.0,2020-12-29,wallstreetbets,gherp9a,We will never progress as a country with this old boomer fuck holding everything up. So much for a democracy when everything can just die on his desk. I'm not talking about just the stimmy. We will never have legal weed on a federal level till we get this clown out of here.,t3_kmcawr,23
+1609263823.0,2020-12-29,wallstreetbets,ghet270,Fuck Mitch fuck mitch,t3_kmcawr,23
+1609266317.0,2020-12-29,wallstreetbets,ghey42v,buy the ARKG dip?,t3_kmcawr,22
+1609267100.0,2020-12-29,wallstreetbets,ghezpul,[deleted],t3_kmcawr,22
+1609267666.0,2020-12-29,wallstreetbets,ghf0vuj,#FUCK MITCH,t3_kmcawr,24
+1609270769.0,2020-12-29,wallstreetbets,ghf77un,Mitch the kind of guy to not pass in the passing lane.,t3_kmcawr,23
+1609272465.0,2020-12-29,wallstreetbets,ghfan4v,"I accidentally bought NIU instead of NIO
+
+And I’m not fucking selling",t3_kmcawr,23
+1609274572.0,2020-12-29,wallstreetbets,ghfew2p,[deleted],t3_kmcawr,24
+1609242553.0,2020-12-29,wallstreetbets,ghdvghq,"Who's that PSTH guy going on multiple accounts and shilling crazy yolo post back to back. Holy fk lmaoooo
+
+We should leave it up to see if he can actually move the price with his shilling to wsb noobs.",t3_kmcawr,21
+1609246869.0,2020-12-29,wallstreetbets,ghe025o,drill team 6 just got to ARK headquarters.. standby,t3_kmcawr,22
+1609254049.0,2020-12-29,wallstreetbets,gheackb,I am now a long term investor,t3_kmcawr,23
+1609257228.0,2020-12-29,wallstreetbets,gheg1zq,"Protip:
+
+On a red day just click the 3 month chart and it's usually green",t3_kmcawr,23
+1609271034.0,2020-12-29,wallstreetbets,ghf7r2u,"You ever lose so much fucking money in a day and think there’s no possible way I could lose more! Then the next day you somehow lose even more and just wish you were at the day before?
+
+F",t3_kmcawr,23
+1609239697.0,2020-12-29,wallstreetbets,ghdsp1y,"Still has that new thread smell
+
+Edit: nope gone. Smells like shit now",t3_kmcawr,60
+1609247348.0,2020-12-29,wallstreetbets,ghe0mzu,That feel when my BABA calls finna go from -85% to -70%. We winnin 🤡,t3_kmcawr,21
+1609254051.0,2020-12-29,wallstreetbets,gheacpw,How did a whole ass ETF dump 9% on a green day come on ARKG,t3_kmcawr,21
+1609254085.0,2020-12-29,wallstreetbets,gheaere,IIIIIMMMMM NOOOOT FUUUCKING SELLLING 💎🙌,t3_kmcawr,22
+1609254164.0,2020-12-29,wallstreetbets,gheajk4,[deleted],t3_kmcawr,21
+1609255587.0,2020-12-29,wallstreetbets,ghed27h,I guess I need to start an OnlyFans to recover these losses,t3_kmcawr,21
+1609261258.0,2020-12-29,wallstreetbets,ghenvsw,"Cmon Mitch don’t be a pussy, pass the stimmy",t3_kmcawr,20
+1609240671.0,2020-12-29,wallstreetbets,ghdtmsk,Today will go down as the greenest day in history,t3_kmcawr,73
+1609240615.0,2020-12-29,wallstreetbets,ghdtktw,Which one of you fuckers has upset my Cathie?,t3_kmcawr,20
+1609247329.0,2020-12-29,wallstreetbets,ghe0m64,"The internet just isnt the same now that casual encounters is gone. 
+
+Pltr 🚀",t3_kmcawr,20
+1609248092.0,2020-12-29,wallstreetbets,ghe1kj5,"I activated margin for the first time in my life, I feel disgusted.",t3_kmcawr,19
+1609249552.0,2020-12-29,wallstreetbets,ghe3hl1,Imagine being on the right side of a trade.,t3_kmcawr,19
+1609252847.0,2020-12-29,wallstreetbets,ghe8dei,why is everything dumping wtf,t3_kmcawr,21
+1609269127.0,2020-12-29,wallstreetbets,ghf3vbl,[deleted],t3_kmcawr,19
+1609269938.0,2020-12-29,wallstreetbets,ghf5ipr,Hey I just realized this is only fun when I make money  huh,t3_kmcawr,19
+1609273035.0,2020-12-29,wallstreetbets,ghfbsl9,Can we ban sir jack a lot? Dude is pumping and dumping.,t3_kmcawr,19
+1609257069.0,2020-12-29,wallstreetbets,ghefrc8,"Close the markets, I’ve seen enough",t3_kmcawr,18
+1609263321.0,2020-12-29,wallstreetbets,ghes1rj,"Puts on the Republican Party, calls on Georgia going blue",t3_kmcawr,19
+1609266125.0,2020-12-29,wallstreetbets,ghexpvi,I hope Mitch gets eaten by a lion.,t3_kmcawr,21
+1609267453.0,2020-12-29,wallstreetbets,ghf0fxk,I‘m 24 and have been in more lockdowns than relationships.,t3_kmcawr,18
+1609269753.0,2020-12-29,wallstreetbets,ghf54tg,pro tip: don't ever work for your parents,t3_kmcawr,20
+1609273271.0,2020-12-29,wallstreetbets,ghfc9na,The ultimate trick to diamond hands is staying up so late that you fall asleep during the trading day.,t3_kmcawr,18
+1609274222.0,2020-12-29,wallstreetbets,ghfe6pc,"How it started: 10 bagger
+
+How it’s going: 1/10 bagger",t3_kmcawr,19
+1609257779.0,2020-12-29,wallstreetbets,gheh310,"GME had over 110,000 shares shorted in the 1st 15 minutes of opening and you paperhanded poor people sold into it. 
+
+Shame.",t3_kmcawr,40
+1609246617.0,2020-12-29,wallstreetbets,ghdzri6,⠄⠄⠸⣿⣿⢣⢶⣟⣿⣖⣿⣷⣻⣮⡿⣽⣿⣻⣖⣶⣤⣭⡉⠄⠄⠄⠄⠄ ⠄⠄⠄⢹⠣⣛⣣⣭⣭⣭⣁⡛⠻⢽⣿⣿⣿⣿⢻⣿⣿⣿⣽⡧⡄⠄⠄⠄ ⠄⠄⠄⠄⣼⣿⣿⣿⣿⣿⣿⣿⣿⣶⣌⡛⢿⣽⢘⣿⣷⣿⡻⠏⣛⣀⠄⠄ ⠄⠄⠄⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠙⡅⣿⠚⣡⣴⣿⣿⣿⡆⠄ ⠄⠄⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⣱⣾⣿⣿⣿⣿⣿⣿⠄ ⠄⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⠄ ⠄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠣⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄ ⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠑⣿⣮⣝⣛⠿⠿⣿⣿⣿⣿⠄ ⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄⠄⠄⢹⣿⣿⣿⣿⣿⣿⣿⣿⠁⠄ ⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠸⣿⣿⣿⣿⣿⡿⢟⣣⣀,t3_kmcawr,85
+1609248869.0,2020-12-29,wallstreetbets,ghe2kpe,"🎼BABA black sheep have you any tendies?  Yes sir, yes sir, three bags full  
+One for the master  
+One for the dame  
+One for the retard  
+Who’s finally free from pain",t3_kmcawr,18
+1609262765.0,2020-12-29,wallstreetbets,gheqwwb,Bitch McFuckell definitely has puts,t3_kmcawr,17
+1609263055.0,2020-12-29,wallstreetbets,gheri3p,[deleted],t3_kmcawr,17
+1609264050.0,2020-12-29,wallstreetbets,ghetilr,Trump is now supporting Bernie filibustering the relief bill. 2020 ain’t done yet boys shit just keeps getting weirder and weirder,t3_kmcawr,16
+1609267601.0,2020-12-29,wallstreetbets,ghf0r20,[deleted],t3_kmcawr,18
+1609272173.0,2020-12-29,wallstreetbets,ghfa27i,The Republican Party is imploding and I love it. I finally agree with Trump on something and hope the $2000 gets passed.,t3_kmcawr,17
+1609275800.0,2020-12-29,wallstreetbets,ghfhcte,Made 5k in two days and I’m unbothered. WSB ruined my perception of money lol,t3_kmcawr,18
+1609278866.0,2020-12-29,wallstreetbets,ghfngdm,PLTR is such a great stock and it never fucks me over,t3_kmcawr,17
+1609251287.0,2020-12-29,wallstreetbets,ghe5z0u,Apparently people get really worked up if you say making 100K in San Diego is not the same as making 100K in rural Alabama - sheesh,t3_kmcawr,56
+1609248550.0,2020-12-29,wallstreetbets,ghe25ro,She say do you love me I tell her only Cathie,t3_kmcawr,17
+1609250062.0,2020-12-29,wallstreetbets,ghe476e,Imagine how much Philip Rivers would be getting if it was $2k per family member,t3_kmcawr,16
+1609253156.0,2020-12-29,wallstreetbets,ghe8v3h,Ride PLTR with me pussies. Tungsten hands.,t3_kmcawr,17
+1609254972.0,2020-12-29,wallstreetbets,ghebywa,STOP THE COUNT ✋,t3_kmcawr,17
+1609256437.0,2020-12-29,wallstreetbets,gheelnx,"Okay, GME, you can stop dropping now.",t3_kmcawr,17
+1609258409.0,2020-12-29,wallstreetbets,ghei9i9,[deleted],t3_kmcawr,17
+1609266350.0,2020-12-29,wallstreetbets,ghey6jl,Seriously someone from Kentucky what do y'all actually like about this dude?,t3_kmcawr,16
+1609266801.0,2020-12-29,wallstreetbets,ghez3u9,What is this??? A red day for ants?,t3_kmcawr,17
+1609270537.0,2020-12-29,wallstreetbets,ghf6qxi,Why do 80 year olds get to run our politics?,t3_kmcawr,17
+1609271767.0,2020-12-29,wallstreetbets,ghf986w,I buy call. Stock go down. I buy put. Stock go up.,t3_kmcawr,17
+1609271972.0,2020-12-29,wallstreetbets,ghf9nb3,"༼ つ ◕_◕ ༽つ POWER HOUR TAKE MY ENERGY, NOT MY TENDIES  ༼ つ ◕_◕ ༽つ",t3_kmcawr,18
+1609246210.0,2020-12-29,wallstreetbets,ghdzamk,I’m scooping up ARKG so I can hate myself in 2 weeks but retire on a yacht in 6 months,t3_kmcawr,35
+1609261965.0,2020-12-29,wallstreetbets,ghepayz,"$2000 passed.
+
+Straight from my account into someone else's hands :(",t3_kmcawr,35
+1609263734.0,2020-12-29,wallstreetbets,ghesvpl,"Mitch has a very strange kind of power.  
+
+He may not have the power to actively do things. 
+
+But he has almost limitless power to stop other people from doing things.",t3_kmcawr,34
+1609242100.0,2020-12-29,wallstreetbets,ghdv0eg,Woke up to pee and can’t go back to sleep. Are these the people who decide that they just have to trade in the premarkets? Fellow pee-ers?,t3_kmcawr,16
+1609243891.0,2020-12-29,wallstreetbets,ghdws26,MY NAME JEFF,t3_kmcawr,15
+1609248890.0,2020-12-29,wallstreetbets,ghe2lp5,"Canoo Starter Kit
+
+Invest
+
+Lose money 
+
+Fuck",t3_kmcawr,16
+1609249118.0,2020-12-29,wallstreetbets,ghe2wdd,GME price too low imo,t3_kmcawr,16
+1609251787.0,2020-12-29,wallstreetbets,ghe6q00,When does G H I V ticker change to AIDS? I have tendie deficiency,t3_kmcawr,15
+1609256244.0,2020-12-29,wallstreetbets,ghee8vm,PLTR 😂 DO THE MOON THING 😂👌,t3_kmcawr,16
+1609258346.0,2020-12-29,wallstreetbets,ghei593,CATHIE YOU WERE THE CHOSEN ONE... YOU WERE SUPPOSED TO DEFEAT THE BEARS NOT JOIN THEM!,t3_kmcawr,16
+1609262224.0,2020-12-29,wallstreetbets,gheptn8,Lmao Josh Brown just legit said “the Wall Street bet trades are falling off”,t3_kmcawr,16
+1609262681.0,2020-12-29,wallstreetbets,gheqqs3,I hope Mitch dies,t3_kmcawr,15
+1609262943.0,2020-12-29,wallstreetbets,gher9yo,Kelly Loefler and David Perdue probably want to kill Mitch McConnell right now. Imagine losing your Senate seat because you take marching orders from an overgrown tortoise lol,t3_kmcawr,15
+1609262945.0,2020-12-29,wallstreetbets,ghera1y,mitch you stupid piece of shit,t3_kmcawr,15
+1609263149.0,2020-12-29,wallstreetbets,gherp4z,"I don’t envy Mitch McConnell honestly, stubborn miserly fucks like him are destined for the bottom of the abyss in hell.",t3_kmcawr,16
+1609263180.0,2020-12-29,wallstreetbets,gherrbn,[deleted],t3_kmcawr,15
+1609263380.0,2020-12-29,wallstreetbets,ghes61c,BROoo my INTC calls!!🚀🚀  what in the actual fuck,t3_kmcawr,16
+1609263642.0,2020-12-29,wallstreetbets,ghesp15,I only lose money when Mitch is involved,t3_kmcawr,17
+1609264145.0,2020-12-29,wallstreetbets,ghetphu,mitch mcconell is literally 78... why the fuck does he care so much,t3_kmcawr,16
+1609265510.0,2020-12-29,wallstreetbets,ghewgsx,IMAGINE BUYING FEDEX LOL. IMAGINE THINKING THE STONK WOULD NOT GO DOWN 10 DAYS IN A ROW. HAHA. IMAGINE THAT!!!,t3_kmcawr,18
+1609266225.0,2020-12-29,wallstreetbets,ghexxaa,Fuck Mitch McConnell,t3_kmcawr,16
+1609266730.0,2020-12-29,wallstreetbets,gheyyis,"Oh no, the Senate blocked the $2000 stimulus checks. What a surprising turn of events that no one saw coming  at all",t3_kmcawr,15
+1609266867.0,2020-12-29,wallstreetbets,ghez8kn,my sex drive is correlated to my portfolio,t3_kmcawr,14
+1609267773.0,2020-12-29,wallstreetbets,ghf13tg,"You know whats great about WSB?
+
+Without WSB, when you open a position and you lose, it feels like the market is against you
+
+*with wsb, you can see other retards getting cucked together and you feel better*",t3_kmcawr,15
+1609269557.0,2020-12-29,wallstreetbets,ghf4q9x,"Trump and Sanders united against McConnell on $2000 stimmy.
+
+Yep...it's still 2020.",t3_kmcawr,16
+1609269612.0,2020-12-29,wallstreetbets,ghf4u9w,"ROPE here! 
+
+Get your ROPE!
+
+ROPE HERE!!",t3_kmcawr,16
+1609272145.0,2020-12-29,wallstreetbets,ghfa05d,I can’t focus on my day job until market closes....  🤡📉,t3_kmcawr,17
+1609273292.0,2020-12-29,wallstreetbets,ghfcb56,My fucking portfolio.. It's ... It's in *ruins*,t3_kmcawr,16
+1609241558.0,2020-12-29,wallstreetbets,ghduhha,# good morning to all wage cucks! It's time to prepare your coffee and work for your boss!!,t3_kmcawr,74
+1609248381.0,2020-12-29,wallstreetbets,ghe1xz1,This is the green day I need. Nothing insanely up premarket. Just let it melt up all day long. I hate the pop and drop days.,t3_kmcawr,16
+1609253184.0,2020-12-29,wallstreetbets,ghe8wqk,Pltr and gme red. There goes half of WSB,t3_kmcawr,15
+1609254064.0,2020-12-29,wallstreetbets,gheadfz,Who else bought ARKK at the literal ATH 🤦‍♂️🙋‍♂️?,t3_kmcawr,15
+1609254245.0,2020-12-29,wallstreetbets,gheaoj2,"I thought I bought the dip 10 mins ago. 
+
+
+I did not buy the right dip.",t3_kmcawr,15
+1609255288.0,2020-12-29,wallstreetbets,ghecizu,It's called wallstreetBETS not wallstreetGUARANTEES,t3_kmcawr,15
+1609257392.0,2020-12-29,wallstreetbets,ghegd1g,"I BOUGHT THE DIP ON ARKG. NOT BECAUSE IT WAS EASY, BUT BECAUSE IT WAS HARD 🧐🇺🇸",t3_kmcawr,16
+1609257673.0,2020-12-29,wallstreetbets,ghegvxz,"Isn’t Kentucky poor as shit in most areas outside of few cities? How does Mitch get away rejecting $2k stimulus?
+
+I remember Cuomo saying that Kentucky gets a lot of Federal aid every year after Mitch took a shot at Cuomo and Cuomo put him in his place",t3_kmcawr,15
+1609260800.0,2020-12-29,wallstreetbets,ghemybw,"$BABA is going to $400
+
+I spoke to my Quant, his name is Jack Ma. He won a national math competition in China and he doesn't even speak English! Yeah I'm sure of the math.",t3_kmcawr,16
+1609262775.0,2020-12-29,wallstreetbets,gheqxm9,[deleted],t3_kmcawr,15
+1609262903.0,2020-12-29,wallstreetbets,gher70i,"McConnel is such an ugly fuck
+
+>”But he’s someone’s father, grandfather, and husband”
+
+OK. That makes him an ugly father, grandfather, and husband",t3_kmcawr,14
+1609263278.0,2020-12-29,wallstreetbets,gherym7,Imagine voting for a guy who won’t give you 2k for free 🤡,t3_kmcawr,15
+1609263621.0,2020-12-29,wallstreetbets,ghesngo,"Guys quit complaining about this correction, just buy the dip this is one of the best ones you’ll get this year",t3_kmcawr,15
+1609265701.0,2020-12-29,wallstreetbets,ghewuqa,McConnell should forfeit his salary,t3_kmcawr,13
+1609266393.0,2020-12-29,wallstreetbets,ghey9nr,Can we just sell Kentucky to china,t3_kmcawr,14
+1609268898.0,2020-12-29,wallstreetbets,ghf3eoc,Holy shit. BABA you beautiful Chinese bastard,t3_kmcawr,16
+1609270290.0,2020-12-29,wallstreetbets,ghf68lg,Bloomberg saying market is flat while I’m fighting for my life here,t3_kmcawr,15
+1609275813.0,2020-12-29,wallstreetbets,ghfhdql,We survived spacpocolypse 2.0,t3_kmcawr,15
+1609276084.0,2020-12-29,wallstreetbets,ghfhx1j,"Come on Bernie you can do it. Get them to vote for $2,000! Fuck Mitch for holding our nation hostage.",t3_kmcawr,15
+1609246081.0,2020-12-29,wallstreetbets,ghdz5dl,"Bitches still long PLTR when hype is long gone and risk/reward isn‘t worth it at all.
+
+Hi guys, I‘m bitches.",t3_kmcawr,43
+1609240648.0,2020-12-29,wallstreetbets,ghdtm07,The dip buy on PLTR gonna make me wish I could afford to exercise my calls,t3_kmcawr,14
+1609247505.0,2020-12-29,wallstreetbets,ghe0u0a,"okay, I am not crazy right - all these people complaining about ARK just dont realize the dividend is today?",t3_kmcawr,14
+1609250122.0,2020-12-29,wallstreetbets,ghe4a9x,Sometimes I look at $AMZN call prices and realize I'm not wealthy,t3_kmcawr,14
+1609251621.0,2020-12-29,wallstreetbets,ghe6gza,10 minutes until my TSLA and PLTR calls drop another 30%,t3_kmcawr,13
+1609254566.0,2020-12-29,wallstreetbets,gheb8i9,im pretty sure the market is rigged against me specifically,t3_kmcawr,14
+1609254964.0,2020-12-29,wallstreetbets,ghebydo,mom come pick me up I'm scared,t3_kmcawr,14
+1609255574.0,2020-12-29,wallstreetbets,ghed1eo,IM NOT FUCKING SELLING,t3_kmcawr,13
+1609255719.0,2020-12-29,wallstreetbets,ghedato,I've lost $10 million dollars today,t3_kmcawr,15
+1609256184.0,2020-12-29,wallstreetbets,ghee4xs,GME fly again pleas,t3_kmcawr,14
+1609256498.0,2020-12-29,wallstreetbets,gheepms,Pack your bags son I lost the house,t3_kmcawr,14
+1609257147.0,2020-12-29,wallstreetbets,ghefwky,Every time I buy PLTR it goes down instantly,t3_kmcawr,14
+1609257184.0,2020-12-29,wallstreetbets,ghefz24,"Bro, I’m straight up not having a good time",t3_kmcawr,14
+1609257187.0,2020-12-29,wallstreetbets,ghefza6,I love losing my entire account value in two days. Diamond hands and balls of steel. The only way,t3_kmcawr,13
+1609257678.0,2020-12-29,wallstreetbets,ghegwa2,"Some R senators voicing support for $2k stimulus, notably the ones in GA. Does Moscow Mitch end up signing on, to try and hold his majority?",t3_kmcawr,14
+1609259642.0,2020-12-29,wallstreetbets,ghekncv,"Today's a good day to buy back my calls
+
+Oh look at that I have no cash in my account because I bought a bunch of calls",t3_kmcawr,13
+1609261441.0,2020-12-29,wallstreetbets,gheo924,Just went all in on baba. *gong sound*,t3_kmcawr,13
+1609261468.0,2020-12-29,wallstreetbets,gheob14,"Sadly, if nio doesn’t hit 50 this week, I will have to see my family to China!",t3_kmcawr,16
+1609262273.0,2020-12-29,wallstreetbets,ghepx8n,-20k today 💎🤲,t3_kmcawr,14
+1609262457.0,2020-12-29,wallstreetbets,gheqahj,"yeah.....imma definitely need that $2,000 check after today's market",t3_kmcawr,14
+1609263071.0,2020-12-29,wallstreetbets,gherj9z,BURN IN HELL MITCH BITCH,t3_kmcawr,13
+1609263710.0,2020-12-29,wallstreetbets,ghestzl,When you lose 40% of your portfolio in a day cuz apple.,t3_kmcawr,13
+1609263737.0,2020-12-29,wallstreetbets,ghesvxl,"why is it that when I lost money and decided to play  safe, I start to invest on etf and they started going down too lmao",t3_kmcawr,13
+1609264047.0,2020-12-29,wallstreetbets,ghetie8,[deleted],t3_kmcawr,12
+1609265945.0,2020-12-29,wallstreetbets,ghexcol,I bought the tip instead of the dip.,t3_kmcawr,13
+1609266340.0,2020-12-29,wallstreetbets,ghey5sg,Mitch the kind of guy to hang the toilet paper with the sheet towards the wall,t3_kmcawr,14
+1609266377.0,2020-12-29,wallstreetbets,ghey8hp,If there’s a hell Mitch McConnell is going there and even the devil would be like “fuck this guy”,t3_kmcawr,13
+1609266438.0,2020-12-29,wallstreetbets,gheycya,Mitch 100% drives with both hands on the wheel,t3_kmcawr,16
+1609266440.0,2020-12-29,wallstreetbets,gheyd3b,mcconnell the type of guy that celebrates his birthday alone in the dark,t3_kmcawr,14
+1609266896.0,2020-12-29,wallstreetbets,ghezao1,the best way to diamond hand is to take a nap. can't be telling ya'll my secrets...,t3_kmcawr,14
+1609267182.0,2020-12-29,wallstreetbets,ghezvxe,mitch the type of guy that wastes water when brushing teeth,t3_kmcawr,15
+1609267370.0,2020-12-29,wallstreetbets,ghf09wl,"When Mitch finally bites the dust, the internet is gonna lose it that day",t3_kmcawr,13
+1609270526.0,2020-12-29,wallstreetbets,ghf6q6x,"Lol remember when bears were planning on buying BABA sub $200 and calling everyone that bought the massive dip a 🤡?
+
+Pepperidge farms remembers.",t3_kmcawr,13
+1609270569.0,2020-12-29,wallstreetbets,ghf6t9g,[deleted],t3_kmcawr,13
+1609271722.0,2020-12-29,wallstreetbets,ghf94vo,Be autistic when others are retarded,t3_kmcawr,13
+1609271752.0,2020-12-29,wallstreetbets,ghf974q,It feels a lot more red than it actually is,t3_kmcawr,14
+1609275719.0,2020-12-29,wallstreetbets,ghfh6z5,-7K past 2 days.,t3_kmcawr,14
+1609240806.0,2020-12-29,wallstreetbets,ghdtrjc,"Jack Ma is the ultimate male specimen
+
+Change my mind",t3_kmcawr,33
+1609249394.0,2020-12-29,wallstreetbets,ghe39wo,Just a reminder that the PSTH post at the top of the front page rn is bullshit manipulation designed to get you to fomo in like a retard. Don’t be a retard.,t3_kmcawr,31
+1609263716.0,2020-12-29,wallstreetbets,ghesuf1,mitch mcconell is a fucking virgin,t3_kmcawr,29
+1609245789.0,2020-12-29,wallstreetbets,ghdyth9,Raise your hand if your 💎✋ GME today. Fuck the 🌈🐻,t3_kmcawr,13
+1609248014.0,2020-12-29,wallstreetbets,ghe1gz8,"I jerk off right before open and throughout, post nut clarity prevents panic selling",t3_kmcawr,14
+1609248135.0,2020-12-29,wallstreetbets,ghe1mh6,I’m retarded,t3_kmcawr,13
+1609251965.0,2020-12-29,wallstreetbets,ghe6zla,"**JACK MA LOOKING TO CREATE A HOLDING COMPANY FOR ANT**
+
+**JACK MA CONTINUES TO TELL XI TO EAT SHIT**
+
+**BABA UP 4.1% PRE-MARKET**
+
+this will end well
+
+Totalitarian dictators **LOVE** being told to eat shit.
+
+RIP JACK MA (soon)",t3_kmcawr,13
+1609252839.0,2020-12-29,wallstreetbets,ghe8czt,"So this is why r/investing talks about mutual funds and bonds.
+
+Narrator: *and it finally dawned upon the retard how stupid he really was*",t3_kmcawr,14
+1609252986.0,2020-12-29,wallstreetbets,ghe8lbc,"Stocks hit record highs. Again.
+
+Me: Loses money. Again.",t3_kmcawr,13
+1609252997.0,2020-12-29,wallstreetbets,ghe8lw4,IM FUGHTING FOR MY FUCKING LIFE,t3_kmcawr,13
+1609254811.0,2020-12-29,wallstreetbets,ghebodl,I DECLARE BANKRUPTCYYYYYYY,t3_kmcawr,13
+1609255145.0,2020-12-29,wallstreetbets,ghec9x9,Down 13k on GME so far today (still profitable overall). These diamond hands are getting somewhat sweaty lmaoo,t3_kmcawr,14
+1609255617.0,2020-12-29,wallstreetbets,ghed46p,"I just spent all my margin on this dip. Ride or die, homies",t3_kmcawr,13
+1609255671.0,2020-12-29,wallstreetbets,ghed7na,"GME gang. Easier said than done, but just relax and close your app for the day. If you rode out the $18-$12 drop a few weeks ago, you can ride out this EOY manipulation. Just remember how heavily manipulated this stock is by rich fucks. Don't let them have your money.",t3_kmcawr,14
+1609255795.0,2020-12-29,wallstreetbets,ghedfrj,Reallocated $5k (like half of my Roth value) from VOO to ARKG in my Roth yesterday. Thank god it’s down 10% today I was getting worried I was gunna start making money,t3_kmcawr,13
+1609256831.0,2020-12-29,wallstreetbets,ghefbm5,"GME, more like it’s FuckingME",t3_kmcawr,13
+1609256971.0,2020-12-29,wallstreetbets,ghefkuz,Condolences to the retards who sold at 10:15,t3_kmcawr,13
+1609257271.0,2020-12-29,wallstreetbets,gheg4vz,After today we need a 5k stimulus check,t3_kmcawr,12
+1609257992.0,2020-12-29,wallstreetbets,ghehhbu,ARKG wrong way,t3_kmcawr,12
+1609259175.0,2020-12-29,wallstreetbets,ghejql5,Who else is balls deep in SPACs right now,t3_kmcawr,13
+1609260196.0,2020-12-29,wallstreetbets,ghelqri,guys i absolutely FUCKING HATE LOSING MONEY,t3_kmcawr,13
+1609260372.0,2020-12-29,wallstreetbets,ghem38n,Just reloaded on GME. It could dip every day for the next week but it's taking off Jan. 11th bitches,t3_kmcawr,13
+1609260454.0,2020-12-29,wallstreetbets,ghem93c,This stock market is starting feel like a abusive relationship only held together by the crazy sex we have for 30 mins in the morning...,t3_kmcawr,13
+1609261451.0,2020-12-29,wallstreetbets,gheo9rn,this gonna be the first time (and hopefully last) I watch the senate on the floor live.,t3_kmcawr,13
+1609261461.0,2020-12-29,wallstreetbets,gheoajn,keep the green dildos coming PLTR,t3_kmcawr,15
+1609262172.0,2020-12-29,wallstreetbets,gheppxq,"Josh Brown of CNBC just mentioned WSB, saying we're in a Robinhood-WSB bear market--which is great for the market, lol. Screw him.   
+Don't lose to these guys. Buy more dammit.",t3_kmcawr,13
+1609262316.0,2020-12-29,wallstreetbets,gheq09z,[deleted],t3_kmcawr,13
+1609262760.0,2020-12-29,wallstreetbets,gheqwit,">	BREAKING: Chuck Schumer just called for unanimous consent to boost the direct payments to $2,000 per qualifying American.
+
+>Mitch McConnell objects. The request is blocked.
+
+
+And that’s the end of that.",t3_kmcawr,12
+1609262932.0,2020-12-29,wallstreetbets,gher95a,I object to Bitch McConnell,t3_kmcawr,12
+1609263024.0,2020-12-29,wallstreetbets,gherftq,Fuck Kentuckians for electing this POS,t3_kmcawr,13
+1609263398.0,2020-12-29,wallstreetbets,ghes7g0,My portfolio is fighting for its live right now,t3_kmcawr,13
+1609263406.0,2020-12-29,wallstreetbets,ghes81c,Where in the fuck are you people getting the stimulus news from this fast? It's like you're all in the singularity already.,t3_kmcawr,14
+1609263610.0,2020-12-29,wallstreetbets,ghesmq1,Did mitch just cuck the market,t3_kmcawr,13
+1609263662.0,2020-12-29,wallstreetbets,ghesqho,"Pack your bags son, I lost the house",t3_kmcawr,12
+1609263891.0,2020-12-29,wallstreetbets,ghet75k,"When I yolo 📉📉📉
+When I throw spare change at something 📈📈📈",t3_kmcawr,13
+1609264432.0,2020-12-29,wallstreetbets,gheuaca,one upvote and I'll lose all my money again,t3_kmcawr,13
+1609264595.0,2020-12-29,wallstreetbets,gheum9s,"Ngl if Mitch was out of congress, there would be so much money in the market that all of you would have enough to buy tendies for your future generation of family members",t3_kmcawr,14
+1609265183.0,2020-12-29,wallstreetbets,ghevsva,Day trading SPY really has us watching C-SPAN like it’s a football game,t3_kmcawr,13
+1609266024.0,2020-12-29,wallstreetbets,ghexig0,Literally getting robbed in the hood is a better experience then RobinHood order fills,t3_kmcawr,12
+1609266851.0,2020-12-29,wallstreetbets,ghez7f8,I’ll meet you all in the fucking soup line,t3_kmcawr,14
+1609266961.0,2020-12-29,wallstreetbets,ghezfkd,Slavery was a mistake,t3_kmcawr,13
+1609267577.0,2020-12-29,wallstreetbets,ghf0p85,mitch is the kind of guy to burn his left over food so not even bacteria can eat it,t3_kmcawr,14
+1609268016.0,2020-12-29,wallstreetbets,ghf1ls9,"If I wake up tomorrow to the headline ""**Markets soar to all time highs on stimulus hopes**"" I'm going to kill myself.",t3_kmcawr,14
+1609270554.0,2020-12-29,wallstreetbets,ghf6s6j,Mitch looks like the guy from Hannibal that cut his own face off and fed it to the dogs 🐕,t3_kmcawr,14
+1609270569.0,2020-12-29,wallstreetbets,ghf6t9m,"Moscow Mitch acting like it’s his money, let that bitch through, we need a reset of the economy anyway.",t3_kmcawr,13
+1609270776.0,2020-12-29,wallstreetbets,ghf78bo,It's almost like the market decided to specifically fuck all the WSB meme stock holders.,t3_kmcawr,13
+1609270908.0,2020-12-29,wallstreetbets,ghf7hxl,"This was an intentional attack on WSB stocks, the only solution is to buy the dip",t3_kmcawr,12
+1609271232.0,2020-12-29,wallstreetbets,ghf858e,"Every fucking time. If I invest a pathetic $300, I get 90% returns. Finally get the balls to make a sizeable bet with $10k and now I'm already down 50% since Monday. Smh.",t3_kmcawr,14
+1609271707.0,2020-12-29,wallstreetbets,ghf93sp,PLTR pleas fly again,t3_kmcawr,13
+1609272137.0,2020-12-29,wallstreetbets,ghf9zjx,if you feel bad about your losses today just remember that retard that threw a million on PLTR,t3_kmcawr,13
+1609273075.0,2020-12-29,wallstreetbets,ghfbvj0,ICLN do something u hippie FUCKER,t3_kmcawr,13
+1609273294.0,2020-12-29,wallstreetbets,ghfcbab,ARKG FIRE SALE ENDS TODAY 🆘,t3_kmcawr,13
+1609273389.0,2020-12-29,wallstreetbets,ghfcibd,Mitch can suck my tiny penis.,t3_kmcawr,13
+1609273434.0,2020-12-29,wallstreetbets,ghfclmg,[deleted],t3_kmcawr,12
+1609275023.0,2020-12-29,wallstreetbets,ghffsju,AAPL giving up right now,t3_kmcawr,13
+1609275332.0,2020-12-29,wallstreetbets,ghfgf4x,No way this happens again tomorrow right,t3_kmcawr,12
+1609276244.0,2020-12-29,wallstreetbets,ghfi8l8,[deleted],t3_kmcawr,12
+1609276354.0,2020-12-29,wallstreetbets,ghfigfz,[deleted],t3_kmcawr,13
+1609243366.0,2020-12-29,wallstreetbets,ghdw9aw,Robert it goes down,t3_kmcawr,12
+1609243869.0,2020-12-29,wallstreetbets,ghdwr8w,"got up to piss and now I can’t fall back asleep, just staring at RH like a shit chucking Neanderthal hoping I could press buttons and make stuff go uppies",t3_kmcawr,12
+1609244248.0,2020-12-29,wallstreetbets,ghdx5da,"Bought apple 150c 3/21 at the top in September. Punched the wall with my fists while I was down 90% the last months.
+
+Got some diamond hands now and only down -50%💎✋🏻💎✋🏻💎 let’s go to tendie town",t3_kmcawr,10
+1609245164.0,2020-12-29,wallstreetbets,ghdy4i1,[deleted],t3_kmcawr,11
+1609245509.0,2020-12-29,wallstreetbets,ghdyicb,"Cathie Wood giveth, Cathie Wood taketh
+
+wsb in shambles",t3_kmcawr,12
+1609248188.0,2020-12-29,wallstreetbets,ghe1oxr,"Apple now cares about slave labor after 15 years lmao. Probably saw the $2000 pass the house and thought “damn now we can charge $2,000 for a phone and claim we dumped slave labor that added to our cost”",t3_kmcawr,11
+1609249905.0,2020-12-29,wallstreetbets,ghe3z70,[deleted],t3_kmcawr,12
+1609250196.0,2020-12-29,wallstreetbets,ghe4e13,"Imagine seeing a vaccine rolling out into a v shaped recovery, watching the president sign a trillion dollar stimulus Bill, and watching the Fed reaffirm QE and 0% interest rates and thinking “this is it. This is the time to short stocks.” Wow.",t3_kmcawr,12
+1609250652.0,2020-12-29,wallstreetbets,ghe51n5,"Jack Ma forehead needs to be the new moon face 🌝🌝🌝
+
+And BABA is our 🚀🚀🚀🚀",t3_kmcawr,11
+1609251052.0,2020-12-29,wallstreetbets,ghe5mne,Nothing like the smell of fresh coffee and Tinder notifications from single moms with 4 kids to start your trading day.,t3_kmcawr,13
+1609251760.0,2020-12-29,wallstreetbets,ghe6og0,# AAPL ALL TIME HIGHS GET FKED BEARS 🚀🚀🚀,t3_kmcawr,11
+1609251957.0,2020-12-29,wallstreetbets,ghe6z68,You'd think Baba was at ATH reading this sub.,t3_kmcawr,12
+1609252711.0,2020-12-29,wallstreetbets,ghe85f3,You retards managed to break the best ETF in the market. Congratulations.,t3_kmcawr,12
+1609253807.0,2020-12-29,wallstreetbets,ghe9xwx,"I'm down $3k. 
+
+This makes losing $35k within the last 7 days.",t3_kmcawr,11
+1609253925.0,2020-12-29,wallstreetbets,ghea51e,This is what I get for buying ARKG at 106🙃,t3_kmcawr,13
+1609253940.0,2020-12-29,wallstreetbets,ghea5ym,Bought 60 bucks worth of gme weeklies and sold it for 5 bucks. Just like gamestop IRL,t3_kmcawr,12
+1609253995.0,2020-12-29,wallstreetbets,ghea9a4,my life savings are in pltr and gme...,t3_kmcawr,12
+1609254356.0,2020-12-29,wallstreetbets,gheav6r,Month of December gains: wiped,t3_kmcawr,12
+1609254411.0,2020-12-29,wallstreetbets,gheayn2,"You paperhanded GME retards, buy the dip, not sell it ffs",t3_kmcawr,13
+1609254635.0,2020-12-29,wallstreetbets,ghebczu,Cathie about to start onlyfans to recover losses,t3_kmcawr,12
+1609254867.0,2020-12-29,wallstreetbets,ghebrzz,Ok this is getting ridiculous now,t3_kmcawr,12
+1609254890.0,2020-12-29,wallstreetbets,ghebth6,"IM DYING OVER HERE.
+My portfolio is ARKG, PLTR, GME. send help 🤡",t3_kmcawr,11
+1609255049.0,2020-12-29,wallstreetbets,ghec3tu,"*puts on Chapstick*
+
+See you guys behind the Wendys around 4:15 Eastern time. Please make a line and keep 6 feet apart",t3_kmcawr,10
+1609255281.0,2020-12-29,wallstreetbets,ghecik1,"Once again, imma have sleep for dinner",t3_kmcawr,11
+1609255544.0,2020-12-29,wallstreetbets,gheczf1,"Meme stocks getting slaughtered the last two days 
+
+Market is green but my RH portfolio is getting spit roasted",t3_kmcawr,13
+1609255788.0,2020-12-29,wallstreetbets,ghedfag,Wonder if sir jacks a lot sold crsr,t3_kmcawr,12
+1609256325.0,2020-12-29,wallstreetbets,gheee7v,"If i die i’ll die like a man, holding PLTR",t3_kmcawr,12
+1609256518.0,2020-12-29,wallstreetbets,gheeqz8,#CATHIE HAS AWOKEN 👁 👁,t3_kmcawr,11
+1609256617.0,2020-12-29,wallstreetbets,gheexiq,I survived the Great Recession of 12/29.,t3_kmcawr,13
+1609256747.0,2020-12-29,wallstreetbets,ghef65b,"Ok, PLTR bull run starts now. Was a day early but we start now!!",t3_kmcawr,13
+1609257170.0,2020-12-29,wallstreetbets,ghefy5r,"GOD DAMNIT FIRST IM OUT OF BUYING POWER. NOW THIS MARGIN BITCH WONT STOP CALLING. 
+
+#WHAT A FUCKING DAY! 💰 🔥",t3_kmcawr,11
+1609257778.0,2020-12-29,wallstreetbets,gheh2yc,"The stimulus bill that was just passed has a lot of tax incentives for solar and wind companies, extending the 26% tax creedit for two additional years! That is a big deal and will help clean energy companies continue growing rapidly. But all the clean energy stocks sold off on Monday, indicating that this was a SELL the NEWS kind of a drop. I would buy any and all dips in this sector for the near future. Today is particularly tasty since most have dropped 10% in the last two days.",t3_kmcawr,12
+1609257871.0,2020-12-29,wallstreetbets,gheh97c,"AAPL: *ath*
+
+WSB: “NoW iS a GoOd TiMe To BuY wEeKlIeS”
+
+Also WSB: *Googles how to declare bankruptcy*",t3_kmcawr,12
+1609258379.0,2020-12-29,wallstreetbets,ghei7hz,"Just casually adding GME shares. Patience is key. Cancel out the noise and follow your investment thesis.
+
+🚀🍆",t3_kmcawr,13
+1609259241.0,2020-12-29,wallstreetbets,ghejv87,"GME V shaped recovery.
+
+I bet Cohen is buying rn lol",t3_kmcawr,12
+1609259297.0,2020-12-29,wallstreetbets,ghejz5y,red days build character,t3_kmcawr,12
+1609259479.0,2020-12-29,wallstreetbets,ghekbw0,"It’s fun thinking on all the people here that bought GME at 22+, sold this morning at 18.70-19 and will buy again at 22 hahahah",t3_kmcawr,11
+1609260996.0,2020-12-29,wallstreetbets,ghencks,"Alright who sold their GME shares, I’m not mad, I just wanna talk",t3_kmcawr,12
+1609261243.0,2020-12-29,wallstreetbets,ghenunw,"Paper hands, how hard did you fold under the 2hrs of GME market manipulation? We are heading to the moon and you're not invited. 💎🙌 GME gang. The shorts had more steam yesterday, at least they suppressed GME for nearly the entire day",t3_kmcawr,11
+1609261442.0,2020-12-29,wallstreetbets,gheo95s,SQ monthly seems like a solid play here,t3_kmcawr,13
+1609262330.0,2020-12-29,wallstreetbets,gheq1de,[deleted],t3_kmcawr,12
+1609262374.0,2020-12-29,wallstreetbets,gheq4kc,"there is nothing dumber than the fucking motley fool/similar articles that do the standard ""This is why 'X' stock was trading higher today"".
+
+Clickbait PoS",t3_kmcawr,13
+1609262528.0,2020-12-29,wallstreetbets,gheqfo1," [https://twitter.com/DeItaone/status/1343970420844859392?s=20](https://twitter.com/DeItaone/status/1343970420844859392?s=20)
+
+>MCCONNELL OBJECTS TO SCHUMER'S REQUEST THAT SENATE APPROVE $2,000 COVID-19 DIRECT PAYMENTS BY UNANIMOUS CONSENT, BLOCKING EFFORT",t3_kmcawr,12
+1609262652.0,2020-12-29,wallstreetbets,gheqomd,Honestly Mitch Mcconnell needs to just die already. Hopefully not too much longer,t3_kmcawr,11
+1609262895.0,2020-12-29,wallstreetbets,gher6eq,[deleted],t3_kmcawr,13
+1609262930.0,2020-12-29,wallstreetbets,gher8yh,Why do we have 80 year old dinosaurs in office? Age cap should be 50,t3_kmcawr,12
+1609263017.0,2020-12-29,wallstreetbets,gherfat,Dude at this point I’ll pay 2k to watch Bernie scrap Mitch.,t3_kmcawr,13
+1609263698.0,2020-12-29,wallstreetbets,ghest56,"China is a beautiful country. They don’t need any stimulus checks. Fly BABA, fly",t3_kmcawr,12
+1609263791.0,2020-12-29,wallstreetbets,gheszxi,"Good thing hemp is getting legalized across the nation, because we're going to need a lot more rope.",t3_kmcawr,13
+1609263867.0,2020-12-29,wallstreetbets,ghet5g3,"Everyone in the senate session: “let’s vote on it”
+
+Mitch: “ I object” *crawls back under his troll bridge*",t3_kmcawr,11
+1609264197.0,2020-12-29,wallstreetbets,ghettdd,FOMO'd into some INTC weeklies and lost 55% within literally seconds.,t3_kmcawr,12
+1609264289.0,2020-12-29,wallstreetbets,gheu00b,Who else ironically lost more than 2k,t3_kmcawr,12
+1609264370.0,2020-12-29,wallstreetbets,gheu5tv,Mitch mcconnel is a huge bitch,t3_kmcawr,12
+1609264794.0,2020-12-29,wallstreetbets,ghev0uy,"Major Catalyst coming for ACB and Weed stocks generally:
+
+Senate GOP just blocked the $2000 checks, so it just tilted the chances in favour for the Dems in the Georgia Senate Run Offs. If (which is more likely now) the Dems win on Jan 5th, then Weed is back on the table for decriminalization and legalisation. This could be the BIGGEST catalyst for weed since FOREVER.
+
+TL:DR: Dems take the Senate on 5th. Hot Weed Sector. Hottest.
+
+Positions: ACB Shares, Swing.
+
+GOD SPEED RETARDS",t3_kmcawr,12
+1609265891.0,2020-12-29,wallstreetbets,ghex8qh,"Rule 32 dictates that any options position you can imagine is fucking someone, somewhere",t3_kmcawr,12
+1609265983.0,2020-12-29,wallstreetbets,ghexfhd,Bernie is fighting for our stock market pump.,t3_kmcawr,12
+1609266501.0,2020-12-29,wallstreetbets,gheyhkz,Almost at zero down 41k. But my neighbor fuck me last night soo.,t3_kmcawr,13
+1609266576.0,2020-12-29,wallstreetbets,gheyn2l,McConnell is the guy that takes up 2 parking spots,t3_kmcawr,12
+1609266652.0,2020-12-29,wallstreetbets,gheysrk,Def not paying rent this month.,t3_kmcawr,13
+1609266788.0,2020-12-29,wallstreetbets,ghez2t5,I think I'm down 7K this month 😔,t3_kmcawr,12
+1609267152.0,2020-12-29,wallstreetbets,gheztsj,"Watched my account bleed to death the last 2 days. Picked up a couple calls today and the bleeding continues, however, I now feel nothing. Like at all. Is this the way?",t3_kmcawr,12
+1609267626.0,2020-12-29,wallstreetbets,ghf0swi,[deleted],t3_kmcawr,12
+1609267880.0,2020-12-29,wallstreetbets,ghf1bpd,Getting cucked by the senator of a state which 50% of its residents smoke meth,t3_kmcawr,11
+1609268863.0,2020-12-29,wallstreetbets,ghf3bzl,"Who didnt buy the BABA dip, cowards",t3_kmcawr,11
+1609269201.0,2020-12-29,wallstreetbets,ghf40q2,Palan-tears 😢,t3_kmcawr,13
+1609269764.0,2020-12-29,wallstreetbets,ghf55na,[deleted],t3_kmcawr,13
+1609270120.0,2020-12-29,wallstreetbets,ghf5w5e,Mitch is the real Darth Vader. Prove me wrong.,t3_kmcawr,13
+1609270273.0,2020-12-29,wallstreetbets,ghf67dz,[deleted],t3_kmcawr,12
+1609271058.0,2020-12-29,wallstreetbets,ghf7stm,I’ve made some bad trades but today takes the cherry holy shit 😅,t3_kmcawr,12
+1609271313.0,2020-12-29,wallstreetbets,ghf8b4h,Call me Clifford because I’m a big red bitch,t3_kmcawr,14
+1609271364.0,2020-12-29,wallstreetbets,ghf8eq9,"how does this reptile fuck mitch always get re-elected, nobody likes this fuck",t3_kmcawr,12
+1609271453.0,2020-12-29,wallstreetbets,ghf8l83,"Honestly might just become a senator. Get paid 200k to be grossly incompetent, give yourself a raise and still never loose your job. Legal insider trading is the cherry on top.",t3_kmcawr,12
+1609271568.0,2020-12-29,wallstreetbets,ghf8tpg,How can you oppose increasing stimulus checks because of “fiscal” spending when we already deficit spend and add trillions to the debt every year? I mean what the fuck does it matter at that point,t3_kmcawr,12
+1609271931.0,2020-12-29,wallstreetbets,ghf9kak,"30 years old and each day, I look forward to: 1) the market opening, 2) the mail coming, 3) going to sleep.
+
+A lot to look forward to when you get older. Stay in school kids.",t3_kmcawr,11
+1609273670.0,2020-12-29,wallstreetbets,ghfd2l2,I’m fighting for my fucking life,t3_kmcawr,12
+1609274735.0,2020-12-29,wallstreetbets,ghff7sm,NIO UP 5% MY DICK UP 500%,t3_kmcawr,13
+1609275584.0,2020-12-29,wallstreetbets,ghfgxbz,[deleted],t3_kmcawr,14
+1609275784.0,2020-12-29,wallstreetbets,ghfhboy,I could really use $2k of stimulation rn,t3_kmcawr,11
+1609275874.0,2020-12-29,wallstreetbets,ghfhi3j,Hope my $100 of apple puts is a good enough hedge for the other 8k of calls,t3_kmcawr,13
+1609276061.0,2020-12-29,wallstreetbets,ghfhvf2,Accidentally read tax code backwards and realized gains instead of losses,t3_kmcawr,12
+1609277838.0,2020-12-29,wallstreetbets,ghflel4,Fuck Mitch McConnell!! He’s mean!!!!!,t3_kmcawr,12
+1609284597.0,2020-12-29,wallstreetbets,ghfym5g,"Relatively new investor and you idiots have convinced me to convert my shares in IT stuff to GME. Only a few hundred $$$ because I have a fam to take care of but if this really tanks my wife my strangle me anyways. Wish me luck, to the  🌕",t3_kmcawr,13
+1609241447.0,2020-12-29,wallstreetbets,ghdudj7,Where my steel gang at?,t3_kmcawr,25
+1609243917.0,2020-12-29,wallstreetbets,ghdwt1w,Anyone else just stop looking when stocks go the wrong way? Lol,t3_kmcawr,22
+1609246419.0,2020-12-29,wallstreetbets,ghdzj98,"Just a reminder that PLTR went up 200% in a month. At $21 it's still up  100% from its IPO price.
+
+Retards complaining it's tanking need to zoom out on the chart.",t3_kmcawr,23
+1609247100.0,2020-12-29,wallstreetbets,ghe0c6p,Life would be so stale without the stock market. I love all the toxicity and bullshit on this sub. It's beautiful. Love u guys,t3_kmcawr,25
+1609254993.0,2020-12-29,wallstreetbets,ghec08i,#12/29 is the last day to write off losses for 2020. Chill out.,t3_kmcawr,23
+1609262745.0,2020-12-29,wallstreetbets,gheqvi2,McConnell just handed GA to the dems hahaha what a moron,t3_kmcawr,23
+1609263249.0,2020-12-29,wallstreetbets,gherwgg,Congress passed a $1.7T tax cut for 651 billionaires. That’s enough for the 200M Americans who make less than $200K/year to get $8500 Each. Yet your request for $2000 is rejected.,t3_kmcawr,26
+1609263743.0,2020-12-29,wallstreetbets,gheswey,All my homies hate Mitch,t3_kmcawr,22
+1609265034.0,2020-12-29,wallstreetbets,ghevi57,Gotta imagine there are going to be lines to piss on Mitch McConnell’s grave in the future,t3_kmcawr,24
+1609241257.0,2020-12-29,wallstreetbets,ghdu6wx,Another day where I'm only gonna get 1 hour of sleep before work. Fuck my retard ass,t3_kmcawr,22
+1609267542.0,2020-12-29,wallstreetbets,ghf0mly,Honestly fuck the guy who told me to buy the dip on CRM.,t3_kmcawr,22
+1609240616.0,2020-12-29,wallstreetbets,ghdtkw2,"Speaking of pornhub, who the fuck are the people constantly giving thousands of tokens to chaturbate girls 
+
+I don’t get it.",t3_kmcawr,11
+1609245149.0,2020-12-29,wallstreetbets,ghdy3yg,All in Apple?,t3_kmcawr,12
+1609246592.0,2020-12-29,wallstreetbets,ghdzqfp,Does anyone else scroll WSB until you see a comment that mentions a ticker that you own?,t3_kmcawr,10
+1609247014.0,2020-12-29,wallstreetbets,ghe08ex,I don't wanna grow up. I'm a toysrus kid,t3_kmcawr,11
+1609248901.0,2020-12-29,wallstreetbets,ghe2m85,ICLN needs to dick punch through 28 to 29,t3_kmcawr,10
+1609249622.0,2020-12-29,wallstreetbets,ghe3l35,I've lost 20k in the past week and if I lose another 5k today (which I am on track of) I am selling everything and taking a break,t3_kmcawr,11
+1609251340.0,2020-12-29,wallstreetbets,ghe61sa,Doubled my position in PLTR late yesterday. Bought to pop off. 🚀,t3_kmcawr,11
+1609251584.0,2020-12-29,wallstreetbets,ghe6exa,Nio pls driv again,t3_kmcawr,11
+1609251699.0,2020-12-29,wallstreetbets,ghe6l49,My girl got a new haircut that looks exactly like my university crush’s. I like it more for that than how it looks on her right now. Emotions are weird.,t3_kmcawr,12
+1609252015.0,2020-12-29,wallstreetbets,ghe72df,"IT IS ALMOST TIME TO PLAY ""MAKE POOR INVESTMENTS"" AGAIN!!!!!!!!!!!",t3_kmcawr,12
+1609252828.0,2020-12-29,wallstreetbets,ghe8cba,STOP STOP He’s already dead 😭 My poor massacred boy PLTR 😟 my son 😓 fly high angel 👼,t3_kmcawr,11
+1609253023.0,2020-12-29,wallstreetbets,ghe8neq,"PLTR got them Apple bottom jeans
+
+Boots with the fur (with the fur)
+
+Got the whole subreddit looking at her
+
+She hit the floor (she hit the floor)
+PLTR got LOW LOW LOW LOW LOW LOW LOW",t3_kmcawr,11
+1609253136.0,2020-12-29,wallstreetbets,ghe8txw,[deleted],t3_kmcawr,11
+1609253438.0,2020-12-29,wallstreetbets,ghe9bn7,"Buy the dip on GME with shares. There isn't much selking pressure to punch through to take it back up to $21. Just grabbed some shares, my part is done.",t3_kmcawr,12
+1609253947.0,2020-12-29,wallstreetbets,ghea6ch,"# HOLD THE LINE MY BROTHERS
+
+TONIGHT WE DINE IN HELL. 2021 IS IN OUR HANDS, JUST HOLD",t3_kmcawr,11
+1609254216.0,2020-12-29,wallstreetbets,gheamt0,[deleted],t3_kmcawr,10
+1609254348.0,2020-12-29,wallstreetbets,gheauqi,going all in on GME and PLTR,t3_kmcawr,12
+1609254390.0,2020-12-29,wallstreetbets,gheaxab,Cathie is gonna have to send out a long newsletter explaining why every ARKG stock dropped more than 15% today,t3_kmcawr,11
+1609254553.0,2020-12-29,wallstreetbets,gheb7ow,For the clowns here look up the January stock effect. This is expected movement the last week of the year due to taxes. Good buying opportunity for those with cash. Those without should bag hold non shitty stocks,t3_kmcawr,12
+1609254726.0,2020-12-29,wallstreetbets,ghebiw1,"Has anybody else been experiencing The Fuckening since the 22nd? And especially in last two days?
+
+I’m about to sit on a broom.",t3_kmcawr,10
+1609254765.0,2020-12-29,wallstreetbets,ghebld6,STOP THE COUNT,t3_kmcawr,11
+1609254879.0,2020-12-29,wallstreetbets,ghebst4,GME drilling on literally NO volume. Stop selling you fucking idiots.,t3_kmcawr,10
+1609254883.0,2020-12-29,wallstreetbets,ghebt1h,[deleted],t3_kmcawr,11
+1609254911.0,2020-12-29,wallstreetbets,ghebuw3,#EXCELLENT BUYING OPPORTUNITY!! EVERYTHING IS DISCOUNTED!! 🥳🥳,t3_kmcawr,11
+1609254992.0,2020-12-29,wallstreetbets,ghec05r,I am literally all red today,t3_kmcawr,12
+1609255001.0,2020-12-29,wallstreetbets,ghec0rw,I lost so much fucking money in the past hour,t3_kmcawr,11
+1609255472.0,2020-12-29,wallstreetbets,ghecunl,[deleted],t3_kmcawr,11
+1609255540.0,2020-12-29,wallstreetbets,ghecz7e,BABA is safe haven asset now. Reversal bigger than Jack Ma's head,t3_kmcawr,11
+1609256186.0,2020-12-29,wallstreetbets,ghee538,I fall for every bull trap and every bear trap every fucking time,t3_kmcawr,11
+1609256256.0,2020-12-29,wallstreetbets,ghee9oo,"PLTR bulls, this is where we make our stand",t3_kmcawr,12
+1609256471.0,2020-12-29,wallstreetbets,gheenwp,FILLED UP ON THIS DIP,t3_kmcawr,12
+1609256639.0,2020-12-29,wallstreetbets,gheeyzn,If you want to get into GME now is a good time to 🚀🌙,t3_kmcawr,10
+1609256894.0,2020-12-29,wallstreetbets,gheffvx,[deleted],t3_kmcawr,11
+1609257069.0,2020-12-29,wallstreetbets,ghefrdm,ARKG and the G stands for green by EOD. Load up now 🚀🚀🚀,t3_kmcawr,11
+1609257452.0,2020-12-29,wallstreetbets,ghegh55,"Bought 1,000 shares of PLTR at 24.50. Nut",t3_kmcawr,11
+1609257544.0,2020-12-29,wallstreetbets,ghegncw,[deleted],t3_kmcawr,12
+1609257698.0,2020-12-29,wallstreetbets,ghegxnd,its kinda hilarious that a .5% dip on spy can wipe us all out in a matter of minutes,t3_kmcawr,10
+1609257937.0,2020-12-29,wallstreetbets,ghehdlv,So weird I wake up -5k and freak out. Then get to -10k and tempt to paper hands. Then get back to -5k and feel happy.,t3_kmcawr,11
+1609258613.0,2020-12-29,wallstreetbets,gheinji,"NVDA dividend is a joke, just keep the change and buy your employees a breakroom latte machine",t3_kmcawr,10
+1609258829.0,2020-12-29,wallstreetbets,ghej2ix,Everything is hemorrhoid blood red and NKLA has the audacity to be green. Fuck this market,t3_kmcawr,11
+1609258851.0,2020-12-29,wallstreetbets,ghej40v,"GOEV from +440% to +93% 🤡 diamond hands pay off, they said",t3_kmcawr,11
+1609258903.0,2020-12-29,wallstreetbets,ghej7ou,i like how ark rallies +200% but gets 1 red day and all cathies followers break her neck about it,t3_kmcawr,11
+1609259010.0,2020-12-29,wallstreetbets,ghejf2r,[deleted],t3_kmcawr,11
+1609259126.0,2020-12-29,wallstreetbets,ghejn5d,Every call I own is red. But the underlying asset is green 🤡. I’m really good at this game.,t3_kmcawr,11
+1609259604.0,2020-12-29,wallstreetbets,ghekkmm,PLTR you got to wake up.,t3_kmcawr,11
+1609259833.0,2020-12-29,wallstreetbets,ghel11m,Down almost $2000 over the last week 🥰🥰🤩🤩,t3_kmcawr,12
+1609260133.0,2020-12-29,wallstreetbets,ghelmdr,why pay rent when ARKG is this low,t3_kmcawr,10
+1609260363.0,2020-12-29,wallstreetbets,ghem2lk,[deleted],t3_kmcawr,12
+1609260462.0,2020-12-29,wallstreetbets,ghem9mi," \*SEN. HAWLEY TWEETS \`WE'VE GOT THE VOTES' FOR $2,000 CHECKS",t3_kmcawr,11
+1609261500.0,2020-12-29,wallstreetbets,gheod9q,How come when I buy stonks they only go down,t3_kmcawr,12
+1609261932.0,2020-12-29,wallstreetbets,ghep8mi,Mitch looking like he wants to pass the 2k stimmy,t3_kmcawr,11
+1609262019.0,2020-12-29,wallstreetbets,ghepeuq,I am over-leveraged and under performing 🤡,t3_kmcawr,11
+1609262185.0,2020-12-29,wallstreetbets,ghepqx9,My New Years resolution is stop coming to the casino pretending I know what I’m doing 🤡🤡🤡,t3_kmcawr,10
+1609262429.0,2020-12-29,wallstreetbets,gheq8fr,"$2000 checks, 75% of each going towards the purchase of apple products. calls on aapl",t3_kmcawr,11
+1609262719.0,2020-12-29,wallstreetbets,gheqtko,bernie pissed af,t3_kmcawr,10
+1609263137.0,2020-12-29,wallstreetbets,ghero64,Mitch just objected? I don't even want to look at the market rn. I know it gonna be bad,t3_kmcawr,10
+1609263237.0,2020-12-29,wallstreetbets,ghervki,So is Mitch the reason all of my American stocks/calls are down and all those Chinese stocks are up?,t3_kmcawr,11
+1609263885.0,2020-12-29,wallstreetbets,ghet6om,At least all those foreign countries are getting our tax dollars,t3_kmcawr,11
+1609263941.0,2020-12-29,wallstreetbets,ghetapd,Spy down 0.20% apparently makes 50% of wsb homeless,t3_kmcawr,10
+1609264129.0,2020-12-29,wallstreetbets,ghetoak,[deleted],t3_kmcawr,10
+1609264831.0,2020-12-29,wallstreetbets,ghev3lb,"These fucking pumps are annoying as fuck. Literally destroys puts. 
+
+SPY drills $2 Puts up 10%. 
+
+SPy pumps 50 cents, puts down 99%.",t3_kmcawr,11
+1609264841.0,2020-12-29,wallstreetbets,ghev4bs,Just pass the $2k bill plese,t3_kmcawr,12
+1609265010.0,2020-12-29,wallstreetbets,ghevgfh,Some fuckin loser just gave me a reddit award,t3_kmcawr,11
+1609265343.0,2020-12-29,wallstreetbets,ghew4lg,If you lose unrealized gains did you really lose anything,t3_kmcawr,10
+1609266948.0,2020-12-29,wallstreetbets,ghezeis,"It’s clear the Mitch McConnell’s of the world are scared to give us money not because they think the markets gonna crash, but because socio economic classes may change drastically if more people become wealthier and change tax brackets betting on these YOLOOOOs but we gon make this money anyway Bitch Bihconnel",t3_kmcawr,12
+1609267067.0,2020-12-29,wallstreetbets,gheznhf,"Come on pltr- rise like the majestic, surveillance state supporting Phoenix that you are",t3_kmcawr,11
+1609267530.0,2020-12-29,wallstreetbets,ghf0lp3,"I declare PLTR to go higher. I didn't say it, I declared it.",t3_kmcawr,10
+1609267899.0,2020-12-29,wallstreetbets,ghf1d5m,mitch is the kinda guy who gladly takes a dump right after showering in the morning,t3_kmcawr,11
+1609268468.0,2020-12-29,wallstreetbets,ghf2j1g,"$2K stimulus being ignored is actually bullish. Now we can get twice-daily ""stimulus talks going well"" pumps.",t3_kmcawr,12
+1609268512.0,2020-12-29,wallstreetbets,ghf2m93,"If you’re in BABA, you don’t need no stimulus",t3_kmcawr,11
+1609268845.0,2020-12-29,wallstreetbets,ghf3aps,Mitch the kinda guy to steal inactivated gift cards from stores and give them to extended relatives during Christmas,t3_kmcawr,11
+1609268912.0,2020-12-29,wallstreetbets,ghf3fqg,"Mitch really fucking his party right now, dems win this scenario no matter what happens
+
+Bill passes “Nancy pelosi shows true leadership for the American worker”
+
+Bill fails “mitch and the GOP stay on brand proving once again they’re completely disconnected with the everyday American”",t3_kmcawr,10
+1609269096.0,2020-12-29,wallstreetbets,ghf3t2d,EVERYBODY SIGN ALONG IF YOU HAVE BABA CALLS. WE ARE FAMILY...,t3_kmcawr,11
+1609269124.0,2020-12-29,wallstreetbets,ghf3v3p,I’m here to shit post and buy the fucking dip. And I’m all out of money so 🥴,t3_kmcawr,12
+1609269172.0,2020-12-29,wallstreetbets,ghf3yly,[deleted],t3_kmcawr,11
+1609269174.0,2020-12-29,wallstreetbets,ghf3yqn,[removed],t3_kmcawr,11
+1609269711.0,2020-12-29,wallstreetbets,ghf51hr,[deleted],t3_kmcawr,11
+1609269741.0,2020-12-29,wallstreetbets,ghf53uf,Mitch the kinda guy who shorts GME,t3_kmcawr,12
+1609269746.0,2020-12-29,wallstreetbets,ghf549i,BABA just converted me into a communist,t3_kmcawr,10
+1609269782.0,2020-12-29,wallstreetbets,ghf571j,"I know buying the dip is the smart choice, but after a week of dips and putting more and more money in it feels like getting kicked in the nuts and saying “can I have some more”",t3_kmcawr,9
+1609269833.0,2020-12-29,wallstreetbets,ghf5avb,"I made $14 today, AMA.",t3_kmcawr,10
+1609270277.0,2020-12-29,wallstreetbets,ghf67ou,Damn.... 🌈🐻 who told me I was retarded for buying the Baba dip suddenly real quiet......,t3_kmcawr,12
+1609270502.0,2020-12-29,wallstreetbets,ghf6ofv,NIO and BABA got me ROCK HARD RN 😤🥴,t3_kmcawr,11
+1609270556.0,2020-12-29,wallstreetbets,ghf6sb1,Yo im straight up not having a good time 😎,t3_kmcawr,11
+1609270884.0,2020-12-29,wallstreetbets,ghf7g4y,"fuck you, fuck you, fuck you
+
+and fuck you mitch",t3_kmcawr,10
+1609242621.0,2020-12-29,wallstreetbets,ghdvita,Then they would allow the poor to get rich,t1_ghdvf53,126
+1609242571.0,2020-12-29,wallstreetbets,ghdvh2q,[deleted],t1_ghdvf53,78
+1609242388.0,2020-12-29,wallstreetbets,ghdvanp,Lose the hands,t1_ghdv8st,161
+1609249372.0,2020-12-29,wallstreetbets,ghe38t2,"They don't call the average persons here ""retards"" for nothing",t1_ghe2z7g,35
+1609250093.0,2020-12-29,wallstreetbets,ghe48s6,"Nah man, hold it a few more days and then you won’t have to pay any taxes when the world goes tits up next year.",t1_ghe3yfo,12
+1609259505.0,2020-12-29,wallstreetbets,ghekdpd,"I'd like to order a Dave's triple call on GME, please.",t1_ghek6op,12
+1609243317.0,2020-12-29,wallstreetbets,ghdw7kx,You’ll prob never read this. But I just wanted you to know that I really appreciate you. And many of us acknowledge your hard work and all you’re doing for WSB. Thank you.,t1_ghdvtyi,129
+1609243100.0,2020-12-29,wallstreetbets,ghdvzsj,I'm so happy you're back.,t1_ghdvtyi,39
+1609242271.0,2020-12-29,wallstreetbets,ghdv6di,Give that manager a blowjob to,t1_ghdv2gc,32
+1609251197.0,2020-12-29,wallstreetbets,ghe5ubp,We all gotta have a dream bruh,t1_ghe5szj,19
+1609255670.0,2020-12-29,wallstreetbets,ghed7lw,[deleted],t1_ghed3uy,17
+1609255700.0,2020-12-29,wallstreetbets,ghed9lf,If you have shares just don't look for a few weeks.,t1_ghed3uy,12
+1609258668.0,2020-12-29,wallstreetbets,gheirby,That sounds really nice. Hope you get there man.,t1_gheikxw,16
+1609243584.0,2020-12-29,wallstreetbets,ghdwgza,"if it makes you feel any better, I split 40K into arkk and arkg... and apparently bought the top as well",t1_ghdwb2o,37
+1609240071.0,2020-12-29,wallstreetbets,ghdt1z5,wholesome as fuck. Same to u pal,t1_ghdsxeb,23
+1609246002.0,2020-12-29,wallstreetbets,ghdz248,We good.,t1_ghdz0tu,27
+1609246067.0,2020-12-29,wallstreetbets,ghdz4sl,GME 🍆🚀🍆🚀🍆,t1_ghdz0tu,14
+1609258432.0,2020-12-29,wallstreetbets,gheib3u,They are testing your capacity for mundane work,t1_ghei1jh,12
+1609247469.0,2020-12-29,wallstreetbets,ghe0sd8,It all makes sense when you realize everyone is on ludes,t1_ghe0nvh,34
+1609246223.0,2020-12-29,wallstreetbets,ghdzb5d,"You truly are retarded. Never share your gains outside of WSB, especially with your wife and her boyfriend",t1_ghdz9cn,97
+1609246223.0,2020-12-29,wallstreetbets,ghdzb4l,Never tell them,t1_ghdz9cn,20
+1609240008.0,2020-12-29,wallstreetbets,ghdszry,my bad,t1_ghdsp1y,45
+1609254632.0,2020-12-29,wallstreetbets,ghebcsi,This aged poorly,t1_ghdtmsk,55
+1609248605.0,2020-12-29,wallstreetbets,ghe287s,I only love my ARKK and my ARKG I'm sorry,t1_ghe25ro,13
+1609263225.0,2020-12-29,wallstreetbets,gherun6,They would but I don't think they can read your question,t1_gherrbn,12
+1609266894.0,2020-12-29,wallstreetbets,ghezakb,So always down,t1_ghez8kn,11
+1609241113.0,2020-12-29,wallstreetbets,ghdu1xu,His face looks like it was born 10 years after his head,t1_ghdtrjc,41
+1609240942.0,2020-12-29,wallstreetbets,ghdtw5l,He looks like a Canadian from South Park,t1_ghdtrjc,22
+1609241045.0,2020-12-29,wallstreetbets,ghdtzm8,Truly one of the ugliest People I've seen.,t1_ghdtrjc,11
+1609277901.0,2020-12-29,wallstreetbets,ghflj15,He's indifferent. He doesn't care if you are poor. He only cares if he and his friends are rich.,t1_ghflel4,12
+1609241519.0,2020-12-29,wallstreetbets,ghdug34,MT JUNE CALL HERE,t1_ghdudj7,16
+1609246467.0,2020-12-29,wallstreetbets,ghdzl63,“but palantir will change the world”,t1_ghdzj98,21
+1609247159.0,2020-12-29,wallstreetbets,ghe0eq9,Go fuck yourself,t1_ghe0c6p,35
+1609241696.0,2020-12-29,wallstreetbets,ghdumd4,"Seriously the worst way to go through life, good sleep and water is better than crack",t1_ghdu6wx,13
+1609243648.0,2020-12-29,wallstreetbets,ghdwjai,<3,t1_ghdw7kx,50
+1609246271.0,2020-12-29,wallstreetbets,ghdzd4l,Unless you get to throat fuck them every night,t1_ghdzb5d,24
+1609240163.0,2020-12-29,wallstreetbets,ghdt53w,just glad you're back my man,t1_ghdszry,23
