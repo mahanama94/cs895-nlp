@@ -15,7 +15,8 @@ def run(parser):
     combined_file_name = args.combined_file
     output_file = args.output_file
 
-    emojicons = ["😎"]
+    emojicons = ['🐂', '🧸', '🚀', '🌕', '🌚', '‍🌈🐻', '🐻', '💎🤲', '🙌', '💎',
+                 '🧻🤲', '🍗', '🦍', '💪', '⚡', '🤡', '📈', '🥰', '😍', '💯']
 
     df = pd.read_csv(combined_file_name)
     for emojicon in emojicons:
